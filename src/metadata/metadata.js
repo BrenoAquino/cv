@@ -82,6 +82,11 @@ Fui estagiário de desenvolvimento iOS e trabalhei na reconstrução do aplicati
       contents: 'Aplicativo integrado com o TheMovieDB para utilizar como POC e aprender novas tecnologias.',
     },
     {
+      title: 'iOS Common Module',
+      skills: ['iOS', 'Swift', 'Design System', 'View Code'],
+      contents: 'Conjunto de extensões para views afim de melhorar a legibilidade, escrita e manutenção de suas constraints, permitindo também a fácil integração com um design system.',
+    },
+    {
       title: 'Home Security System',
       skills: ['Computer Vision', 'Python', 'Flask', 'WebSocket', 'MongoDB', 'Raspberry Pi'],
       contents: 'Sistema para detecção de pessoas e objetos utilizando câmeras IP.'
