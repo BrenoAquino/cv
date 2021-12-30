@@ -7,7 +7,6 @@ module.exports = {
     'Email': '<a href="mailto:brenoaquino7phr@gmail.com">brenoaquino7phr@gmail.com</a>'
   },
   overview: 'Sou uma pessoa que sempre busca inovação e principalmente automações de processos. Tenho experiência com projetos nas áreas de educação e streaming. Trabalho com criação, evolução e melhoria de arquiteturas com o objetivo de aumentar a produtividade, performance e qualidade dos projetos.',
-  // TODO: Retirar o +
   skills: [
     ['Swift', '+++++'],
     ['iOS', '+++++'],
@@ -42,7 +41,7 @@ Fui responsável pela estruturação do projeto junto com o cliente (Maple Leaf 
       period: 'Março de 2019 - momento',
       skills: ['iOS', 'Swift', 'Fastlane', 'Bitrise', 'SAFe'],
       contents: `
-Trabalho em projetos de streaming fornecendo para o cliente conteúdos VOD e Live. Os projetos seguem a metodologia agil utilizando SAFe. O principal projeto é o Now Online, possuindo mais de XXX.XXX usuários, com o foco em melhorar a qualidade do produto e prover uma melhor experiência para o usuário, juntamente com a melhoria da arquitetura do projeto.
+Trabalho em projetos de streaming fornecendo para o cliente conteúdos VOD e Live. Os projetos seguem a metodologia agil utilizando SAFe. O principal projeto é o Now Online, com o foco em melhorar a qualidade do produto e prover uma melhor experiência para o usuário, juntamente com a melhoria da arquitetura do projeto.
 `
     },
     // TODO: Merge Universidade de Fortaleza
@@ -95,7 +94,7 @@ Fui estagiário de desenvolvimento iOS e trabalhei na reconstrução do aplicati
     {
       title: 'Mobile Stores (App Store e Play Store) - Crawler',
       skills: ['Python', 'Serverless', 'AWS Step Functions', 'AWS Lambda', 'AWS DynamoDB'],
-      contents: 'Crawler para extração de dados do App Store e Play Store.'
+      contents: 'Crawler para extração dos reviews da App Store e Play Store.'
     }
   ]
 };
