@@ -1,24 +1,26 @@
 module.exports = {
   name: 'Breno Aquino',
-  title: 'Software Engineer',
+  title: 'iOS Developer',
   facts: {
-    'Residence': 'Fortaleza, CE',
-    'GitHub': '<a href="https://github.com/BrenoAquino"><i class="fab fa-github fact-icon"></i>brenoaquino</a>',
+    'GitHub': '<a href="https://github.com/BrenoAquino">BrenoAquino</a>',
+    'LinkedIn': '<a href="www.linkedin.com/in/breno-aquino">BrenoAquino</a>',
     'Email': '<a href="mailto:brenoaquino7phr@gmail.com">brenoaquino7phr@gmail.com</a>'
   },
-  overview: 'Sou uma pessoa que sempre busca inovação e automação de processos. Tive experiencias com projetos na área de educação e com Streaming. Trabalho com foco na melhoria de performance, na criação e evolução da arquitetura, melhoria de qualidade e a própria evolução de produto. Sempre que possível crio ferramentas para automatizar processos repetitivos.',
+  overview: 'Sou uma pessoa que sempre busca inovação e principalmente automações de processos. Tenho experiência com projetos nas áreas de educação e streaming. Trabalho com criação, evolução e melhoria de arquiteturas com o objetivo de aumentar a produtividade, performance e qualidade dos projetos.',
+  // TODO: Retirar o +
   skills: [
     ['Swift', '+++++'],
     ['iOS', '+++++'],
     ['Git', '+++++'],
-    ['Fastlane', '++++'],
-    ['GithubActions', '++++'],
-    ['Bitrise', '++++'],
+    ['CI/CD', '+++++'],
+    // ['Fastlane', '++++'],
+    // ['GithubActions', '++++'],
+    // ['Bitrise', '++++'],
     ['Flutter', '++'],
     ['Python', '+++++'],
     ['Crawling', '+++++'],
     ['Flask', '+++'],
-    ['TensorFlow', '+++'],
+    // ['TensorFlow', '+++'],
     ['Node.js', '+++'],
     ['AWS', '++++'],
     ['Scrum', '+++++'],
@@ -26,24 +28,24 @@ module.exports = {
   positions: [
     {
       company: 'Meta',
-      location: 'Fortaleza - CE',
+      location: 'Remoto',
       title: 'iOS Developer Senior',
       period: 'Dezembro de 2020 - momento (meio período)',
       skills: ['iOS', 'Swift', 'GithubActions', 'Scrum'],
       contents: `
-Meta desde dezembro de 2020: Fui responsável pela estruturação do projeto de iOS com o cliente MLSE. Junto com um outro desenvolvedor Android nos estruturamos a parte técnica do projeto. Para iOS, foi construído seguindo Clean Architecture e utilizando o MVVM. Um dos desafios era fornecer uma interface de interação pro usuário alinhada com os acontecimentos do jogo. Diferente da maioria dos projetos, esse teve o objetivo de criar um SDK (distribuída com cocoapods para iOS) para ser integrada em outro apps. 
-
-Nós seguimos o Scrum e como se tratava de um cliente canadense, tínhamos algumas cerimônias/reuniões de alinhamentos com eles realizadas em inglês.`
+Fui responsável pela estruturação do projeto junto com o cliente (Maple Leaf Sports & Entertainment). Junto com um outro desenvolvedor Android nós estruturamos a parte técnica do projeto. Para o projeto iOS utilizamos Clean Architecture e MVVM. O grande desafio desse projeto, diferente da maioria, foi criar não um aplicativo, mas sim uma SDK (distribuído com Cocoapods) para ser integrada em outros aplicativos. O projeto seguiu a metodologia agil utilizando Scrum. Como o cliente era no Canadá, as cerimônias eram realizadas em inglês.`
     },
     {
       company: 'Claro Brasil',
       location: 'São Paulo - SP',
       title: 'iOS Developer Senior',
       period: 'Março de 2019 - momento',
-      skills: ['iOS', 'Swift', 'Fastlane', 'Bitrise', 'Scrum'],
+      skills: ['iOS', 'Swift', 'Fastlane', 'Bitrise', 'SAFe'],
       contents: `
-Trabalho com um projeto de Streaming para fornecer uma versão mobile dos conteúdos VOD e Live. Temos foco em performance, modularização e qualidade de entregas. Criamos arquiteturas para melhorar os ganhos nessas áreas e facilitar a manutenção e evolução do produto.`
+Trabalho em projetos de streaming fornecendo para o cliente conteúdos VOD e Live. Os projetos seguem a metodologia agil utilizando SAFe. O principal projeto é o Now Online, possuindo mais de XXX.XXX usuários, com o foco em melhorar a qualidade do produto e prover uma melhor experiência para o usuário, juntamente com a melhoria da arquitetura do projeto.
+`
     },
+    // TODO: Merge Universidade de Fortaleza
     {
       company: 'Universidade de Fortaleza',
       location: 'Fortaleza - CE',
@@ -51,7 +53,7 @@ Trabalho com um projeto de Streaming para fornecer uma versão mobile dos conte�
       period: 'Março de 2018 - Março de 2019',
       skills: ['iOS', 'Swift', 'Liderança Técnica', 'Ruby on Rails'],
       contents: `
-Trabalhei como líder e como desenvolvedor iOS. Os principal aplicativo que trabalhei foi o Unifor Mobile, uma versão mobile (tanto Android quanto iOS) da plataforma da universidade para alunos, professores e funcionário. Auxiliei na criação de outros aplicativos, como RadioNIC (um podcast feito pelos alunos da própria universidade), como líder de uma equipe de estagiários, focando em ensiná-los a construir um aplicativo. Ministrei curso para estagiários alunos que eram contratados pela Universidade.`
+Trabalhei atuando como líder técnico e como desenvolvedor iOS. O principal aplicativo que trabalhei foi o Unifor Mobile, uma versão mobile da plataforma da universidade para alunos, professores e funcionários. Dentre as funcionalidades, se destacada a matrícula do aluno, a frequência realizada pelo professor e o mapa do campus com todos os pontos de referência da universidade. Outra atividade de destaque era a formação de estagiários para o mercado de trabalho por meio de treinamentos e acompanhamentos diários. Também auxiliei na criação de outros aplicativos, como RadioNIC, um podcast feito pelos alunos da própria universidade.`
     },
     {
       company: 'Universidade de Fortaleza',
@@ -60,7 +62,7 @@ Trabalhei como líder e como desenvolvedor iOS. Os principal aplicativo que trab
       period: 'Julho de 2017 - Março de 2018',
       skills: ['iOS', 'Swift', 'UX'],
       contents: `
-Entrei como estagiário de desenvolvimento iOS e trabalhei na reconstrução do aplicativo da Universidade. Tive experiencia com diversas áreas como desenvolvimento iOS, desenvolvimento Android, desenvolvimento com Ruby on Rails, líder técnico e UX.`
+Fui estagiário de desenvolvimento iOS e trabalhei na reconstrução do aplicativo da Universidade. Tive experiência com diversas áreas como desenvolvimento iOS, desenvolvimento Android, desenvolvimento com Ruby on Rails e UX.`
     },
   ],
   education: [
@@ -70,38 +72,30 @@ Entrei como estagiário de desenvolvimento iOS e trabalhei na reconstrução do 
       course: 'Engenharia de Computação',
       period: '2015 - 2019',
       contents: `
-* Trabalho de Conclusão de Curso: Pesquisa utilizando Redes Neurais Recorrentes para predição de tendencias em series de criptomoedas.
-* Atividades: Monitor da disciplina de Programação orientada a objetos em 2016; monitor da disciplina de microprocessadores em 2017; bolsista de iniciação científica na área se seguranças em redes de sensores.`
+* Trabalho de Conclusão de Curso: Pesquisa utilizando Redes Neurais Recorrentes para predição de tendências em séries de criptomoedas.
+* Atividades: Monitor da disciplina de Programação orientada a objetos em 2016; monitor da disciplina de microprocessadores em 2017; bolsista de iniciação científica na área de segurança em redes de sensores.`
     }
   ],
   personal_projects: [
     {
-      header: 'iOS Movies',
+      title: 'iOS Movies',
       skills: ['iOS', 'Swift', 'Design System', 'MVVM', 'View Code'],
-      contents: `
-WIP
-`
+      contents: 'Aplicativo integrado com o TheMovieDB para utilizar como POC e aprender novas tecnologias.',
     },
     {
-      header: 'Home Security System',
+      title: 'Home Security System',
       skills: ['Computer Vision', 'Python', 'Flask', 'WebSocket', 'MongoDB', 'Raspberry Pi'],
-      contents: `
-WIP
-`
+      contents: 'Sistema para detecção de pessoas e objetos utilizando câmeras IP.'
     },
     {
-      header: 'Canal Eletronico do Investidor B3 - Crawler',
+      title: 'Canal Eletrônico do Investidor B3 - Crawler',
       skills: ['NodeJS', 'Python', 'Serverless', 'AWS DynamoDB', 'AWS Lambda'],
-      contents: `
-WIP
-`
+      contents: 'Crawler para extração de dados do canal eletrônico do investidor.'
     },
     {
-      header: 'Mobile Stores (App Store e Play Store) - Crawler',
+      title: 'Mobile Stores (App Store e Play Store) - Crawler',
       skills: ['Python', 'Serverless', 'AWS Step Functions', 'AWS Lambda', 'AWS DynamoDB'],
-      contents: `
-WIP
-`
+      contents: 'Crawler para extração de dados do App Store e Play Store.'
     }
   ]
 };

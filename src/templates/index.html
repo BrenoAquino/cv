@@ -15,12 +15,9 @@
         <div class="col-md-6 col-print-6">
             <h1>{{ name }}<br/>{{ title }}</h1>
             <p>
-                <time datetime="{{ buildinfo.date }}" class="text-muted">Last update: {{ updated }}</time>
-            </p>
-            <p>
                 <span class="screen"><a href="{{ pdfFileName }}"><i class="fa fa-file-pdf-o" aria-hidden="true"></i>Download PDF version</a></span>
-                <span class="print">The online version is available at <a href="{{ baseUrl }}" class="text-nowrap"><i
-                    class="fa fa-github" aria-hidden="true"></i>{{ baseUrl }}</a></span>
+                <!-- <span class="print">The online version is available at <a href="{{ baseUrl }}" class="text-nowrap"><i -->
+                    <!-- class="fa fa-github" aria-hidden="true"></i>{{ baseUrl }}</a></span> -->
             </p>
         </div>
         <div class="col-md-6 col-print-6">
@@ -33,21 +30,18 @@
         </div>
     </div>
 
-    <h3 class="screen">Skills</h3>
-    <div class="row mb-4">
-        {{#each skills}}
-        <div class="col-print-1 col-3 col-md-2 col-lg-1 text-right">
-            <small>{{ this.[0] }}</small>
-        </div>
-        <div class="col-print-1 col-3 col-md-2 col-lg-1">
-            {{ this.[1] }}
-        </div>
-        {{/each}}
-    </div>
+    <h4>Skills</h4>
+    {{#each skills}}
+    <span class="badge badge-primary">{{ this.[0] }}</span>
+    {{/each}}
 
+    </br>
+    </br>
+    <h2>Sobre</h2>
     <p>{{ overview }}</p>
 
-    <h2>Experiencia Profissional</h2>
+    <h2>Experiência Profissional</h2>
+    </br>
     {{#each positions}}
     <div class="card mb-4">
         <div class="card-body">
@@ -83,19 +77,15 @@
 
     <h2>Projetos Pessoais</h2>
     {{#each personal_projects}}
-    <div class="card mt-4">
-        <div class="card-body">
-            <div class="mb-2"><strong>{{ header }}</strong></div>
-
-            {{{markdown contents }}}
-
-            <div>
-                {{#each skills }}
-                <span class="badge badge-primary">{{ this }}</span>
-                {{/each}}
-            </div>
+    <div class="card-body">
+        <div class="mb-2"><strong>{{ title }}</strong>: {{ contents }}</div>
+        <div>
+            {{#each skills }}
+            <span class="badge badge-primary">{{ this }}</span>
+            {{/each}}
         </div>
     </div>
+    </br>
     {{/each}}
 </div>
 </body>
