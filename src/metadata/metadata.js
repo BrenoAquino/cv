@@ -14,16 +14,12 @@ module.exports = {
     ['Fastlane', '++++'],
     ['GithubActions', '++++'],
     ['Bitrise', '++++'],
-
-    ['Flutter', '++']
-
+    ['Flutter', '++'],
     ['Python', '+++++'],
     ['Crawling', '+++++'],
     ['Flask', '+++'],
     ['TensorFlow', '+++'],
-
     ['Node.js', '+++'],
-
     ['AWS', '++++'],
     ['Scrum', '+++++'],
   ],
@@ -78,7 +74,7 @@ Entrei como estagiário de desenvolvimento iOS e trabalhei na reconstrução do 
 * Atividades: Monitor da disciplina de Programação orientada a objetos em 2016; monitor da disciplina de microprocessadores em 2017; bolsista de iniciação científica na área se seguranças em redes de sensores.`
     }
   ],
-  experience: [
+  personal_projects: [
     {
       header: 'iOS Movies',
       skills: ['iOS', 'Swift', 'Design System', 'MVVM', 'View Code'],
