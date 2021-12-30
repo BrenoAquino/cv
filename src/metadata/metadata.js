@@ -17,7 +17,7 @@ module.exports = {
     // ['Bitrise', '++++'],
     ['Flutter', '++'],
     ['Python', '+++++'],
-    ['Crawling', '+++++'],
+    ['Web Scraping', '+++++'],
     ['Flask', '+++'],
     // ['TensorFlow', '+++'],
     ['Node.js', '+++'],
@@ -30,7 +30,7 @@ module.exports = {
       location: 'Remoto',
       title: 'iOS Developer Senior',
       period: 'Dezembro de 2020 - momento (meio período)',
-      skills: ['iOS', 'Swift', 'GithubActions', 'Scrum'],
+      skills: ['iOS', 'Swift', 'Github Actions', 'Scrum'],
       contents: `
 Fui responsável pela estruturação do projeto junto com o cliente (Maple Leaf Sports & Entertainment). Junto com um outro desenvolvedor Android nós estruturamos a parte técnica do projeto. Para o projeto iOS utilizamos Clean Architecture e MVVM. O grande desafio desse projeto, diferente da maioria, foi criar não um aplicativo, mas sim uma SDK (distribuído com Cocoapods) para ser integrada em outros aplicativos. O projeto seguiu a metodologia agil utilizando Scrum. Como o cliente era no Canadá, as cerimônias eram realizadas em inglês.`
     },
@@ -93,12 +93,12 @@ Fui estagiário de desenvolvimento iOS e trabalhei na reconstrução do aplicati
     },
     {
       title: 'Canal Eletrônico do Investidor B3 - Crawler',
-      skills: ['NodeJS', 'Python', 'Serverless', 'AWS DynamoDB', 'AWS Lambda'],
+      skills: ['Web Scraping', 'NodeJS', 'Python', 'Serverless', 'AWS DynamoDB', 'AWS Lambda'],
       contents: 'Crawler para extração de dados do canal eletrônico do investidor.'
     },
     {
       title: 'Mobile Stores (App Store e Play Store) - Crawler',
-      skills: ['Python', 'Serverless', 'AWS Step Functions', 'AWS Lambda', 'AWS DynamoDB'],
+      skills: ['Web Scraping', 'Python', 'Serverless', 'AWS Step Functions', 'AWS Lambda', 'AWS DynamoDB'],
       contents: 'Crawler para extração dos reviews da App Store e Play Store.'
     }
   ]
