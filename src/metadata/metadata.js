@@ -82,6 +82,11 @@ Fui estagiário de desenvolvimento iOS e trabalhei na reconstrução do aplicati
       contents: 'Aplicativo integrado com o TheMovieDB para utilizar como POC e aprender novas tecnologias.',
     },
     {
+      title: 'iOS Cash Handler',
+      skills: ['iOS', 'Swift', 'Design System', 'MVVM', 'View Code'],
+      contents: 'Esse projeto em desenvolvimento cria um aplicativo utilizado SwiftUI, Clean Architecture, coordinators e utilizado modulos com SPM.',
+    },
+    {
       title: 'iOS Common Module',
       skills: ['iOS', 'Swift', 'Design System', 'View Code'],
       contents: 'Conjunto de extensões para views afim de melhorar a legibilidade, escrita e manutenção de suas constraints, permitindo também a fácil integração com um design system.',
