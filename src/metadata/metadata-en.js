@@ -74,7 +74,7 @@ I worked as a Tec lead and iOS developer. The main app witch i worked was Unifor
       period: 'July 2017 - March 2018',
       skills: ['iOS', 'Swift', 'UX'],
       contents: `
-I was iOS developer intern and worked on a refactoring in the main university app. I had expirience with many areas, such as iOS development, Android development, Ruby on Rails developrment and UX.
+I was iOS developer intern and worked on a refactoring in the main university app. I had expirience with several areas, such as iOS development, Android development, Ruby on Rails developrment and UX.
 `
     },
   ],
