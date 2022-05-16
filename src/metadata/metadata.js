@@ -82,7 +82,7 @@ I was iOS developer intern and worked on a refactoring in the main university ap
     {
       company: 'University of Fortaleza - UNIFOR',
       level: 'Graduation',
-      course: 'Computing Engine',
+      course: 'Computing Engineering',
       period: '2015 - 2019',
       contents: `
 * Closure Project: Research using recurrent neural networks to predict criptocurrency trends.
