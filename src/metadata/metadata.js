@@ -48,7 +48,7 @@ I was responsible for defining the project structure with the client (Maple Leaf
     },
     {
       company: 'Claro Brasil',
-      location: 'São Paulo - SP',
+      location: 'São Paulo - SP, Brazil',
       title: 'iOS Developer Senior',
       period: 'March 2019 - March 2022',
       skills: ['iOS', 'Swift', 'Fastlane', 'Bitrise', 'SAFe'],
