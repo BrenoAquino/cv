@@ -86,7 +86,7 @@ I was iOS developer intern and worked on a refactoring in the main university ap
       period: '2015 - 2019',
       contents: `
 * Closure Project: Research using recurrent neural networks to predict criptocurrency trends.
-* Activities: Object Orientations Monitor in 2016; Microprocessors Monitor in 2017; Researcher in security area of network sensors area.
+* Activities: Object Orientation Monitor in 2016; Microprocessor Monitor in 2017; Researcher in the area of sensor network security.
 `
     }
   ],
