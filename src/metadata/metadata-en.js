@@ -43,7 +43,7 @@ Im a personal who always search for inovation and automate all the process that 
       period: 'December de 2020 - Febuary 2022 (part time)',
       skills: ['iOS', 'Swift', 'Github Actions', 'Scrum'],
       contents: `
-I was responsable to define the project struct with the customer (Maple Leaf Sports & Entertaiment). Togeter with an android developer, we structured structured the technical part of the project. I created the SDK witch followed Clean Arch and MVVM. The bigest challenge was that the project was not an app, it was an SDK (distributed by Cocoapods) to be integrated with other apps. The project was guided by Agile used Scrum and all most of the meetings were in english.
+I was responsible for defining the project structure with the client (Maple Leaf Sports & Entertainment). Together with an android developer, we structured the technical part of the project. I created the SDK following Clean Arch and MVVM. The biggest challenge of this project was that it wasn't an app, it was an SDK (distributed by Cocoapods) to be integrated with other apps. The project was guided by Agile using Scrum and most meetings were in English.
 `
     },
     {
