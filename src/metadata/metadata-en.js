@@ -66,13 +66,13 @@ Fui estagiário de desenvolvimento iOS e trabalhei na reconstrução do aplicati
   ],
   education: [
     {
-      company: 'Universidade de Fortaleza',
-      level: 'Graduação',
-      course: 'Engenharia de Computação',
+      company: 'University of Fortaleza - UNIFOR',
+      level: 'Graduation',
+      course: 'Computing Engine',
       period: '2015 - 2019',
       contents: `
-* Trabalho de Conclusão de Curso: Pesquisa utilizando Redes Neurais Recorrentes para predição de tendências em séries de criptomoedas.
-* Atividades: Monitor da disciplina de Programação orientada a objetos em 2016; monitor da disciplina de microprocessadores em 2017; bolsista de iniciação científica na área de segurança em redes de sensores.`
+* Closure Project: Research using recurrent neural networks to predict criptocurrency trends.
+* Activities: Object Orientations Monitor in 2016; Microprocessors Monitor in 2017; Researcher in security area of network sensors area.`
     }
   ],
   personal_projects: [
