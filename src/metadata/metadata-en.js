@@ -64,7 +64,7 @@ I worked on streaming projects to give Live and VOD contents to users. The proje
       period: 'March 2018 - March 2019',
       skills: ['iOS', 'Swift', 'Liderança Técnica', 'Ruby on Rails'],
       contents: `
-I worked as a Tec lead and iOS developer. The main app witch i worked was Unifor Mobile, this app is kind a mobile version about the university platform. The app users could be a professor, a student or an emplyeer. The main features was the map, that could guide the user to any main point in the university, the frequency, that enable the professor to realize the student frequency in their classes, and the registration, that allows the students to choose and subscribe for the disciplines that they want. I was reponsible to teach intens about the tecnology and about how projects runs in real work by courses and daily track. I also contributed to create an app for University Podcast.
+I worked as a Tec lead and iOS developer. The main app witch i worked was Unifor Mobile, this app is kind a mobile version ofthe university platform. The app users can be professors, a students or emplyeers. The main features were the map, witch could guide the user to any main point in the university, the frequency, witch enable the professor to make the student frequency in their classes, and the registration, witch allows the students to choose and subscribe in disciplines that they want. I was reponsible for teaching interns about the tecnology and about how the projects work in real world through courses and daily track. I also contributed to create an app for University Podcast.
 `
     },
     {
