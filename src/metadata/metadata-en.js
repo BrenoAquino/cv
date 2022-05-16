@@ -79,32 +79,32 @@ Fui estagiário de desenvolvimento iOS e trabalhei na reconstrução do aplicati
     {
       title: 'iOS Movies',
       skills: ['iOS', 'Swift', 'Design System', 'MVVM', 'View Code'],
-      contents: 'Aplicativo integrado com o TheMovieDB para utilizar como POC e aprender novas tecnologias.',
+      contents: 'App integrated with TheMovieDB to be a base project to apply new tecnologies to learn or create an POC.',
     },
     {
       title: 'iOS Cash Handler',
       skills: ['iOS', 'Swift', 'Design System', 'MVVM', 'View Code'],
-      contents: 'Esse projeto em desenvolvimento cria um aplicativo utilizado SwiftUI, Clean Architecture, coordinators e utilizado modulos com SPM.',
+      contents: 'This project under development creates an application witch use SwitUI, Clean Arch, coordinator and SPM modules.',
     },
     {
       title: 'iOS Common Module',
       skills: ['iOS', 'Swift', 'Design System', 'View Code'],
-      contents: 'Conjunto de extensões para views afim de melhorar a legibilidade, escrita e manutenção de suas constraints, permitindo também a fácil integração com um design system.',
+      contents: 'A set of extensions for views to improve code readability, write and maintenance about contraints, allowing a easy integration design systems.',
     },
     {
       title: 'Home Security System',
       skills: ['Computer Vision', 'Python', 'Flask', 'WebSocket', 'MongoDB', 'Raspberry Pi'],
-      contents: 'Sistema para detecção de pessoas e objetos utilizando câmeras IP.'
+      contents: 'Small system to detect people and objects using IP cameras.'
     },
     {
-      title: 'Canal Eletrônico do Investidor B3 - Crawler',
+      title: 'C.E.I. B3 - Crawler',
       skills: ['Web Scraping', 'NodeJS', 'Python', 'Serverless', 'AWS DynamoDB', 'AWS Lambda'],
-      contents: 'Crawler para extração de dados do canal eletrônico do investidor.'
+      contents: 'Crawler project to extract data from a B3 website and gives you by APIs an overview about your investments.'
     },
     {
       title: 'Mobile Stores (App Store e Play Store) - Crawler',
       skills: ['Web Scraping', 'Python', 'Serverless', 'AWS Step Functions', 'AWS Lambda', 'AWS DynamoDB'],
-      contents: 'Crawler para extração dos reviews da App Store e Play Store.'
+      contents: 'Crawler to extract reviews from App Store and Play Store.'
     }
   ]
 };
