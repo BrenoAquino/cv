@@ -51,7 +51,7 @@ Fui responsável pela estruturação do projeto junto com o cliente (Maple Leaf 
       period: 'March de 2019 - March 2022',
       skills: ['iOS', 'Swift', 'Fastlane', 'Bitrise', 'SAFe'],
       contents: `
-Trabalho em projetos de streaming fornecendo para o cliente conteúdos VOD e Live. Os projetos seguem a metodologia agil utilizando SAFe. O principal projeto é o Now Online, com o foco em melhorar a qualidade do produto e prover uma melhor experiência para o usuário, juntamente com a melhoria da arquitetura do projeto.
+I worked on streaming projects to give Live and VOD contents to users. The projects followed Agile mothodology and used SAFe. The main project was Now Online, i worked there with focus to improve the quality and improve the user expienrencia by the performance. This job was done by a some features refactor and architectural improvement.
 `
     },
     // TODO: Merge Universidade de Fortaleza
