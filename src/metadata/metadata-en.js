@@ -62,7 +62,7 @@ Trabalho em projetos de streaming fornecendo para o cliente conteúdos VOD e Liv
       period: 'March 2018 - March 2019',
       skills: ['iOS', 'Swift', 'Liderança Técnica', 'Ruby on Rails'],
       contents: `
-Trabalhei atuando como líder técnico e como desenvolvedor iOS. O principal aplicativo que trabalhei foi o Unifor Mobile, uma versão mobile da plataforma da universidade para alunos, professores e funcionários. Dentre as funcionalidades, se destacada a matrícula do aluno, a frequência realizada pelo professor e o mapa do campus com todos os pontos de referência da universidade. Outra atividade de destaque era a formação de estagiários para o mercado de trabalho por meio de treinamentos e acompanhamentos diários. Também auxiliei na criação de outros aplicativos, como RadioNIC, um podcast feito pelos alunos da própria universidade.
+I worked as a Tec lead and iOS developer. The main app witch i worked was Unifor Mobile, this app is kind a mobile version about the university platform. The app users could be a professor, a student or an emplyeer. The main features was the map, that could guide the user to any main point in the university, the frequency, that enable the professor to realize the student frequency in their classes, and the registration, that allows the students to choose and subscribe for the disciplines that they want. I was reponsible to teach intens about the tecnology and about how projects runs in real work by courses and daily track. I also contributed to create an app for University Podcast.
 `
     },
     {
@@ -72,7 +72,7 @@ Trabalhei atuando como líder técnico e como desenvolvedor iOS. O principal apl
       period: 'July 2017 - March 2018',
       skills: ['iOS', 'Swift', 'UX'],
       contents: `
-Fui estagiário de desenvolvimento iOS e trabalhei na reconstrução do aplicativo da Universidade. Tive experiência com diversas áreas como desenvolvimento iOS, desenvolvimento Android, desenvolvimento com Ruby on Rails e UX.
+I was iOS developer intern and worked on a refactoring in the main university app. I had expirience with many areas, such as iOS development, Android development, Ruby on Rails developrment and UX.
 `
     },
   ],
@@ -97,7 +97,7 @@ Fui estagiário de desenvolvimento iOS e trabalhei na reconstrução do aplicati
     {
       title: 'iOS Cash Handler',
       skills: ['iOS', 'Swift', 'Design System', 'MVVM', 'View Code'],
-      contents: 'This project under development creates an application witch use SwitUI, Clean Arch, coordinator and SPM modules.',
+      contents: 'This project under development creates an app witch use SwitUI, Clean Arch, coordinator and SPM modules.',
     },
     {
       title: 'iOS Common Module',
