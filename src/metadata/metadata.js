@@ -40,7 +40,7 @@ I am a person who is always looking for innovation and automating the entire pro
       company: 'Meta',
       location: 'Remote',
       title: 'iOS Developer Senior',
-      period: 'December de 2020 - Febuary 2022 (part time)',
+      period: 'December 2020 - Febuary 2022 (part time)',
       skills: ['iOS', 'Swift', 'Github Actions', 'Scrum'],
       contents: `
 I was responsible for defining the project structure with the client (Maple Leaf Sports & Entertainment). Together with an android developer, we structured the technical part of the project. I created the SDK following Clean Arch and MVVM. The biggest challenge of this project was that it wasn't an app, it was an SDK (distributed by Cocoapods) to be integrated with other apps. The project was guided by Agile using Scrum and most meetings were in English.
@@ -50,7 +50,7 @@ I was responsible for defining the project structure with the client (Maple Leaf
       company: 'Claro Brasil',
       location: 'São Paulo - SP',
       title: 'iOS Developer Senior',
-      period: 'March de 2019 - March 2022',
+      period: 'March 2019 - March 2022',
       skills: ['iOS', 'Swift', 'Fastlane', 'Bitrise', 'SAFe'],
       contents: `
 I worked on streaming projects to give live and VOD content to users. The projects followed the Agile methodology and used SAFe. The main project was Now Online, I worked there focusing on improving quality and improving user experience through performance improvement. This work was done through a refactoring of some features and architectural improvement.
