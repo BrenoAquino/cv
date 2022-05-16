@@ -53,7 +53,7 @@ I was responsable to define the project struct with the customer (Maple Leaf Spo
       period: 'March de 2019 - March 2022',
       skills: ['iOS', 'Swift', 'Fastlane', 'Bitrise', 'SAFe'],
       contents: `
-I worked on streaming projects to give Live and VOD contents to users. The projects followed Agile mothodology and used SAFe. The main project was Now Online, i worked there with focus to improve the quality and improve the user expienrencia by the performance. This job was done by a some features refactor and architectural improvement.
+I worked on streaming projects to give live and VOD content to users. The projects followed the Agile methodology and used SAFe. The main project was Now Online, I worked there focusing on improving quality and improving user experience through performance improvement. This work was done through a refactoring of some features and architectural improvement.
 `
     },
     // TODO: Merge Universidade de Fortaleza
