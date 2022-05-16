@@ -94,17 +94,17 @@ I was iOS developer intern and worked on a refactoring in the main university ap
     {
       title: 'iOS Movies',
       skills: ['iOS', 'Swift', 'Design System', 'MVVM', 'View Code'],
-      contents: 'App integrated with TheMovieDB to be a base project to apply new tecnologies to learn or create an POC.',
+      contents: 'App integrated with TheMovieDB to be a base project to apply new technologies or create a POC.',
     },
     {
       title: 'iOS Cash Handler',
       skills: ['iOS', 'Swift', 'Design System', 'MVVM', 'View Code'],
-      contents: 'This project under development creates an app witch use SwitUI, Clean Arch, coordinator and SPM modules.',
+      contents: 'This project in development creates an app that uses SwitUI, Clean Arch, coordinator and SPM modules.',
     },
     {
       title: 'iOS Common Module',
       skills: ['iOS', 'Swift', 'Design System', 'View Code'],
-      contents: 'A set of extensions for views to improve code readability, write and maintenance about contraints, allowing a easy integration design systems.',
+      contents: 'A set of extensions for views to improve code readability, write and maintenance about contraints and allowing easy integration with design systems.',
     },
     {
       title: 'Home Security System',
@@ -114,7 +114,7 @@ I was iOS developer intern and worked on a refactoring in the main university ap
     {
       title: 'C.E.I. B3 - Crawler',
       skills: ['Web Scraping', 'NodeJS', 'Python', 'Serverless', 'AWS DynamoDB', 'AWS Lambda'],
-      contents: 'Crawler project to extract data from a B3 website and gives you by APIs an overview about your investments.'
+      contents: 'Crawler project to extract data from a B3 website and give you an overview about your investments by APIs.'
     },
     {
       title: 'Mobile Stores (App Store e Play Store) - Crawler',
