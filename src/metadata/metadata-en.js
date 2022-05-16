@@ -6,7 +6,9 @@ module.exports = {
     'LinkedIn': '<a href="www.linkedin.com/in/breno-aquino">BrenoAquino</a>',
     'Email': '<a href="mailto:brenoaquino7phr@gmail.com">brenoaquino7phr@gmail.com</a>'
   },
-  overview: 'Sou uma pessoa que sempre busca inovação e principalmente automações de processos. Tenho experiência com projetos nas áreas de educação e streaming. Trabalho com criação, evolução e melhoria de arquiteturas com o objetivo de aumentar a produtividade, performance e qualidade dos projetos.',
+  overview: `
+Im a personal who always search for inovation and automate all the process that could be automated. I have expirience with projects in education, streaming and financial areas. I have worked with the creation, evolution and improvement of architectures with goals to improve performance and quality.
+`,
   skills: [
     ['Swift', '+++++'],
     ['iOS', '+++++'],
