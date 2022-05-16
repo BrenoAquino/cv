@@ -7,7 +7,7 @@ module.exports = {
     'Email': '<a href="mailto:brenoaquino7phr@gmail.com">brenoaquino7phr@gmail.com</a>'
   },
   overview: `
-I am a person who is always looking for innovation and automating the entire process that can be automated. I have experience with projects in the areas of education, streaming and finance. I work with the creation, evolution and improvement of architectures with performance and quality improvement goals.
+I am a person who is always looking for innovation and automating every thing possible. I have experience with projects in the areas of education, streaming and finance. I work with the creation, evolution and improvement of architectures with performance and quality improvement goals.
 `,
   skills: [
     ['Swift', '+++++'],
@@ -30,7 +30,7 @@ I am a person who is always looking for innovation and automating the entire pro
     {
       company: 'Itaú',
       location: 'Remote',
-      title: 'iOS Developer Senior',
+      title: 'Senior iOS Developer',
       period: 'March 2022 - current',
       skills: ['iOS', 'Swift', 'Modules'],
       contents: `
@@ -39,9 +39,9 @@ I am a person who is always looking for innovation and automating the entire pro
     {
       company: 'Meta',
       location: 'Remote',
-      title: 'iOS Developer Senior',
-      period: 'December 2020 - Febuary 2022 (part time)',
-      skills: ['iOS', 'Swift', 'Github Actions', 'Scrum'],
+      title: 'Senior iOS Developer',
+      period: 'December 2020 - February 2022 (part time)',
+      skills: ['iOS', 'Swift', 'Github Actions', 'Scrum', 'Pods'],
       contents: `
 I was responsible for defining the project structure with the client (Maple Leaf Sports & Entertainment). Together with an android developer, we structured the technical part of the project. I created the SDK following Clean Arch and MVVM. The biggest challenge of this project was that it wasn't an app, it was an SDK (distributed by Cocoapods) to be integrated with other apps. The project was guided by Agile using Scrum and most meetings were in English.
 `
@@ -49,11 +49,11 @@ I was responsible for defining the project structure with the client (Maple Leaf
     {
       company: 'Claro Brasil',
       location: 'São Paulo - SP, Brazil',
-      title: 'iOS Developer Senior',
+      title: 'Senior iOS Developer',
       period: 'March 2019 - March 2022',
       skills: ['iOS', 'Swift', 'Fastlane', 'Bitrise', 'SAFe'],
       contents: `
-I worked on streaming projects to give live and VOD content to users. The projects followed the Agile methodology and used SAFe. The main project was Now Online, I worked there focusing on improving quality and improving user experience through performance improvement. This work was done through a refactoring of some features and architectural improvement.
+I worked on streaming projects providing live and VOD content to users. The projects followed the Agile methodology and used SAFe. The main project was Now Online App, I worked there focusing on improving quality and user experience. This work was done through refactoring features and architectural components.
 `
     },
     // TODO: Merge Universidade de Fortaleza
@@ -62,9 +62,9 @@ I worked on streaming projects to give live and VOD content to users. The projec
       location: 'Fortaleza - CE, Brazil',
       title: 'iOS Developer',
       period: 'March 2018 - March 2019',
-      skills: ['iOS', 'Swift', 'Liderança Técnica', 'Ruby on Rails'],
+      skills: ['iOS', 'Swift', 'Tech Lead', 'Ruby on Rails'],
       contents: `
-I worked as a Tec lead and iOS developer. The main app witch i worked was Unifor Mobile, this app is kind a mobile version ofthe university platform. The app users can be professors, a students or emplyeers. The main features were the map, witch could guide the user to any main point in the university, the frequency, witch enable the professor to make the student frequency in their classes, and the registration, witch allows the students to choose and subscribe in disciplines that they want. I was reponsible for teaching interns about the tecnology and about how the projects work in real world through courses and daily track. I also contributed to create an app for University Podcast.
+I worked as a Tech lead and iOS developer. The main app which I worked was Unifor Mobile, this app is mobile version of the university platform. The app users can be professors, students or emplyees. The main features were the map, which could guide the user to any main point in the university, the frequency, enabling teachers to make the student frequency in their classes, and enrollment, which allows the students to choose subjects and enroll in the ones they want to. I was reponsible for teaching interns about the tecnology and how the projects work in real world through courses and daily tracking by using scrum. I also contributed to create a set of other apps for the university.
 `
     },
     {
@@ -109,12 +109,12 @@ I was iOS developer intern and worked on a refactoring in the main university ap
     {
       title: 'Home Security System',
       skills: ['Computer Vision', 'Python', 'Flask', 'WebSocket', 'MongoDB', 'Raspberry Pi'],
-      contents: 'Small system to detect people and objects using IP cameras.'
+      contents: 'System to detect people and objects using IP cameras.'
     },
     {
       title: 'C.E.I. B3 - Crawler',
       skills: ['Web Scraping', 'NodeJS', 'Python', 'Serverless', 'AWS DynamoDB', 'AWS Lambda'],
-      contents: 'Crawler project to extract data from a B3 website and give you an overview about your investments by APIs.'
+      contents: 'Crawler project to extract data from a Brazilian Stock Market platform and give you an overview about your investments by APIs.'
     },
     {
       title: 'Mobile Stores (App Store e Play Store) - Crawler',
