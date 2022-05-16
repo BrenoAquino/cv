@@ -41,7 +41,7 @@ module.exports = {
       period: 'December de 2020 - Febuary 2022 (part time)',
       skills: ['iOS', 'Swift', 'Github Actions', 'Scrum'],
       contents: `
-Fui responsável pela estruturação do projeto junto com o cliente (Maple Leaf Sports & Entertainment). Junto com um outro desenvolvedor Android nós estruturamos a parte técnica do projeto. Para o projeto iOS utilizamos Clean Architecture e MVVM. O grande desafio desse projeto, diferente da maioria, foi criar não um aplicativo, mas sim uma SDK (distribuído com Cocoapods) para ser integrada em outros aplicativos. O projeto seguiu a metodologia agil utilizando Scrum. Como o cliente era no Canadá, as cerimônias eram realizadas em inglês.
+I was responsable to define the project struct with the customer (Maple Leaf Sports & Entertaiment). Togeter with an android developer, we structured structured the technical part of the project. I created the SDK witch followed Clean Arch and MVVM. The bigest challenge was that the project was not an app, it was an SDK (distributed by Cocoapods) to be integrated with other apps. The project was guided by Agile used Scrum and all most of the meetings were in english.
 `
     },
     {
