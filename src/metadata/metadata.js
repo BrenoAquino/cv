@@ -34,6 +34,7 @@ I am a person who is always looking for innovation and automating every thing po
       period: 'March 2022 - current',
       skills: ['iOS', 'Swift', 'Modules'],
       contents: `
+I am working on the user communication modules, such as push notificacations, preferences about the communication and the list of all notification the bank sent to the user.
 `
     },
     {
