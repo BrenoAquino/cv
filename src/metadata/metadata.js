@@ -36,6 +36,7 @@ module.exports = {
       contents: `
 * Responsible for maintaining the entire notification flow, composed of push notifications, deeplinks and a feature that allows the user to keep track of its notifications.
 * Mentoring a Junior developer on my squad, teaching him about iOS development.
+* Implemented several individual modules and distributed using Cocoapods.
 `
     },
     {
@@ -46,7 +47,8 @@ module.exports = {
       skills: ['iOS', 'Swift', 'WebSocket', 'SDK', 'CI/CD', 'Github Actions', 'Scrum', 'Cocoapods'],
       contents: `
 * Responsible for defining the base structure project for the Maple Leaf Sports & Entertainment (MLSE) client, defining the required APIs, the web socket messages and features prioritization.
-* Implemented an White Label SDK following Clean and MVVM to provide features as live and VOD streams, chats, real time stats and other features. Also, the SDK will follow the app theme.
+* Implemented a SDK following Clean and MVVM to provide features as live and VOD streams, chats, real time stats and other features.
+* Implemented a design system and a custom theme to be setted by the host app.
 * Implemented scripts and configured the CI (using Github Action) to automate the build and distribution of the compiled SDK and its documentation.
 * Used Agile and Scrum methodologies, also having weekly meetings with the client and the client backend team.
 `
