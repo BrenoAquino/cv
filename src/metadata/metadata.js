@@ -49,8 +49,6 @@ I am a person who is always looking for innovation and automating every thing po
 * Implemented an White Label SDK following Clean and MVVM to provide features as live and VOD streams, chats, real time stats and other features. Also, the SDK will follow the app theme.
 * Implemented scripts and configured the CI (using Github Action) to automate the build and distribution of the compiled SDK and its documentation.
 * Used Agile and Scrum methodologies, also having weekly meeting with the client and the client backend team.
-
-and we had almost all meeting in English.
 `
     },
     {
