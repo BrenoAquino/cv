@@ -7,24 +7,20 @@ module.exports = {
     'Email': '<a href="mailto:brenoaquino7phr@gmail.com">brenoaquino7phr@gmail.com</a>'
   },
   overview: `
-I am a person who is always looking for innovation and automating every thing possible. I have experience with projects in the areas of education, streaming and finance. I work with the creation, evolution and improvement of architectures with performance and quality improvement goals.
+I am a person who is always looking for innovation and automating every thing possible, enabling us to focus on more important tasks. I have experience with projects in the areas of education, streaming and finance. I am always open to discuss about architectures and performance, we always can learn more with a good discussion.
 `,
   skills: [
     ['Swift', '+++++'],
     ['iOS', '+++++'],
     ['SwiftUI', '+++++'],
+    ['Combine', '+++++'],
     ['Git', '+++++'],
     ['CI/CD', '+++++'],
-    // ['Fastlane', '++++'],
-    // ['GithubActions', '++++'],
-    // ['Bitrise', '++++'],
+    ['Fastlane', '++++'],
+    ['Github Actions', '++++'],
+    ['Bitrise', '++++'],
     ['Python', '+++++'],
-//     ['Web Scraping', '+++++'],
-//     ['Flask', '+++'],
-    // ['TensorFlow', '+++'],
-    ['Node.js', '+++'],
-    ['AWS', '++++'],
-    ['Scrum', '+++++'],
+    ['AWS', '++++']
   ],
   positions: [
     {
@@ -34,7 +30,8 @@ I am a person who is always looking for innovation and automating every thing po
       period: 'March 2022 - current',
       skills: ['iOS', 'Swift', 'Modules'],
       contents: `
-I am working on the user communication modules, such as push notificacations, communication preferences and the list of all notification the bank send to the user.
+* Responsable to mantain the entire notification flow, composed by push notifications, deeplinks and the list with all the user's notifications.
+* I am mentoring a Junior develop on my squad, helping him to get more knowlodge about the iOS platform and about the tech area.
 `
     },
     {
@@ -42,9 +39,12 @@ I am working on the user communication modules, such as push notificacations, co
       location: 'Remote',
       title: 'Senior iOS Developer',
       period: 'December 2020 - February 2022 (part time)',
-      skills: ['iOS', 'Swift', 'Github Actions', 'Scrum', 'Pods'],
+      skills: ['iOS', 'Swift', 'WebSocket', 'SDK', 'CI/CD', 'Github Actions', 'Scrum', 'Cocoapods'],
       contents: `
-I was responsible for defining the project structure with the client (Maple Leaf Sports & Entertainment). Together with an android developer, we structured the technical part of the project. I created the SDK following Clean Arch and MVVM. The biggest challenge of this project was that it wasn't an app, it was an SDK (distributed by Cocoapods) to be integrated with other apps. The project was guided by Agile using Scrum and most meetings were in English.
+* Responsable to define the base structure project for the Maple Leaf Sports & Entertainment (MLSE) clinet, define the required APIs, messagens for the web socket and the features priorities.
+* Implemented an White Label SDK following Clean and MVVM to provide features as live and vod streams, chats, real time stats and other features. The SDK could be integrated inside any app and it will follow the app theme.
+* Implemented scripts and configured the CI (using Github Action) to automate the build and distribution of the compiled SDK and its documentation.
+* Used Agile and Scrum and we had almost all meeting in English.
 `
     },
     {
@@ -52,12 +52,15 @@ I was responsible for defining the project structure with the client (Maple Leaf
       location: 'São Paulo - SP, Brazil',
       title: 'Senior iOS Developer',
       period: 'March 2019 - March 2022',
-      skills: ['iOS', 'Swift', 'Fastlane', 'Bitrise', 'SAFe'],
+      skills: ['iOS', 'Swift', 'Swift Package Manager', 'CI/CD', 'Fastlane', 'Bitrise', 'SAFe'],
       contents: `
-I worked on streaming projects providing live and VOD content to users. The projects followed the Agile methodology and used SAFe. The main project was Now Online App, I worked there focusing on improving quality and user experience. This work was done through refactoring features and architectural components.
+* Developed one stream project from the begining and improved another stream project, both of them providing live and VOD contents.
+* Helped to define the solution and the achitecture for the first project, always looking for performance.
+* Implemented a feature to list all channels and their programs, to improve the performace and the time to render the screen to the user, I implemented a custom cache algorithm to avoid unnecessary recalculations and binary search to improve the time to find the current program based on the time.
+* Improved the architecture to use MVVM and follow Clean Architecture on the second stream project, called NOW. This one had about 300,000 monthly active users.
+* Incressed the test coverage applying the dependence injection concept.
 `
     },
-    // TODO: Merge Universidade de Fortaleza
     {
       company: 'University of Fortaleza - UNIFOR',
       location: 'Fortaleza - CE, Brazil',
@@ -65,7 +68,10 @@ I worked on streaming projects providing live and VOD content to users. The proj
       period: 'March 2018 - March 2019',
       skills: ['iOS', 'Swift', 'Tech Lead', 'Ruby on Rails'],
       contents: `
-I worked as a Tech lead and iOS developer. The main app which I worked was Unifor Mobile, this app is mobile version of the university platform. The app users can be professors, students or emplyees. The main features were the map, which could guide the user to any main point in the university, the frequency, enabling teachers to make the student frequency in their classes, and enrollment, which allows the students to choose subjects and enroll in the ones they want to. I was reponsible for teaching interns about the tecnology and how the projects work in real world through courses and daily tracking by using scrum. I also contributed to create a set of other apps for the university.
+* Worked as a iOS Tech Lead.
+* Responsable for all the university iOS Apps. The main university app had about 24,000+ monthly active users.
+* Taught iOS courses for interns
+* Responsable to teach about the tech things (iOS, git and scrum process for example) and also how to design the entire solution, considering the required APIs, priorities, front end, UX and tests.
 `
     },
     {
@@ -73,9 +79,11 @@ I worked as a Tech lead and iOS developer. The main app which I worked was Unifo
       location: 'Fortaleza - CE, Brazil',
       title: 'Intern - iOS Developer',
       period: 'July 2017 - March 2018',
-      skills: ['iOS', 'Swift', 'UX'],
+      skills: ['iOS', 'Swift'],
       contents: `
-I was iOS developer intern and worked on a refactoring in the main university app. I had expirience with several areas, such as iOS development, Android development, Ruby on Rails developrment and UX.
+* I learned more about iOS working on the main university app, especialy working on the chat and the map that could guide the users throught the university.
+* Refactored the app following MVVM.
+* After 9 months I was hired to be responsable for a team composed by 10 interns. My job was to teach them about iOS and about the project processes.
 `
     },
   ],
@@ -86,8 +94,10 @@ I was iOS developer intern and worked on a refactoring in the main university ap
       course: 'Computing Engineering',
       period: '2015 - 2019',
       contents: `
-* Closure Project: Research using recurrent neural networks to predict criptocurrency trends.
-* Activities: Object Orientation Monitor in 2016; Microprocessor Monitor in 2017; Researcher in the area of sensor network security.
+* Final Project: Research using recurrent neural networks to predict criptocurrency trends.
+* Object Orientation class assistant in 2016.
+* Microprocessor class assistant in 2017.
+* Researcher in the area of sensor network security, trying to implement an algorith to detect atacks.
 `
     }
   ],

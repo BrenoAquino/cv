@@ -6,105 +6,130 @@ module.exports = {
     'LinkedIn': '<a href="www.linkedin.com/in/breno-aquino">BrenoAquino</a>',
     'Email': '<a href="mailto:brenoaquino7phr@gmail.com">brenoaquino7phr@gmail.com</a>'
   },
-  overview: 'Sou uma pessoa que sempre busca inovação e principalmente automações de processos. Tenho experiência com projetos nas áreas de educação e streaming. Trabalho com criação, evolução e melhoria de arquiteturas com o objetivo de aumentar a produtividade, performance e qualidade dos projetos.',
+  overview: `
+I am a person who is always looking for innovation and automating every thing possible. I have experience with projects in the areas of education, streaming and finance. I work with the creation, evolution and improvement of architectures with performance and quality improvement goals.
+`,
   skills: [
     ['Swift', '+++++'],
     ['iOS', '+++++'],
+    ['SwiftUI', '+++++'],
     ['Git', '+++++'],
     ['CI/CD', '+++++'],
-    // ['Fastlane', '++++'],
-    // ['GithubActions', '++++'],
-    // ['Bitrise', '++++'],
-    ['Flutter', '++'],
+    ['Fastlane', '++++'],
+    ['Github Actions', '++++'],
+    ['Bitrise', '++++'],
     ['Python', '+++++'],
-    ['Web Scraping', '+++++'],
-    ['Flask', '+++'],
-    // ['TensorFlow', '+++'],
-    ['Node.js', '+++'],
-    ['AWS', '++++'],
-    ['Scrum', '+++++'],
+    ['AWS', '++++']
   ],
   positions: [
     {
-      company: 'Meta',
-      location: 'Remoto',
-      title: 'iOS Developer Senior',
-      period: 'Dezembro de 2020 - momento (meio período)',
-      skills: ['iOS', 'Swift', 'Github Actions', 'Scrum'],
+      company: 'Itaú',
+      location: 'Remote',
+      title: 'Senior iOS Developer',
+      period: 'March 2022 - current',
+      skills: ['iOS', 'Swift', 'Modules'],
       contents: `
-Fui responsável pela estruturação do projeto junto com o cliente (Maple Leaf Sports & Entertainment). Junto com um outro desenvolvedor Android nós estruturamos a parte técnica do projeto. Para o projeto iOS utilizamos Clean Architecture e MVVM. O grande desafio desse projeto, diferente da maioria, foi criar não um aplicativo, mas sim uma SDK (distribuído com Cocoapods) para ser integrada em outros aplicativos. O projeto seguiu a metodologia agil utilizando Scrum. Como o cliente era no Canadá, as cerimônias eram realizadas em inglês.`
+* Sou responsável pelo fluxo de notificações do aplicativo, como tratar os push notifications, deeplinks e a listagem de todas as notificação para o usuário.
+* Mentoro um Junio da equipe para ajuda-lo a entender mais da tecnologia e avançar no nivel tecnico dentro da empresa.
+`
+    },
+    {
+      company: 'Meta',
+      location: 'Remote',
+      title: 'Senior iOS Developer',
+      period: 'December 2020 - February 2022 (part time)',
+      skills: ['iOS', 'Swift', 'WebSocket', 'SDK', 'CI/CD', 'Github Actions', 'Scrum', 'Cocoapods'],
+      contents: `
+* Fui responsável por definir a estrutura do projeto para o clinete Maple Leaf Sports & Entertainment (MLSE), definir APIs necessárias, mensagens a serem usadas pelo WebSocket e prioridades de features.
+* Creiei uma SDK White Label seguindo Clean Architecture e MVVM para fornecer features como live stream e vod stream, grupo de chats, estatisticas em tempo real e outras funcionalidades. A SDK poderia ser inserida em outros apps e seguiria o tema definido pelo aplicativo.
+* Criei scripts para realizar o build da SDK e distribuir usnado cocoapods o framework compilado em outro repositório para poder não tornar o código publico.
+* O projeto foi seguiu Agile e Scrum e com grande parte das reuniões em inglês.
+`
     },
     {
       company: 'Claro Brasil',
-      location: 'São Paulo - SP',
-      title: 'iOS Developer Senior',
-      period: 'Março de 2019 - momento',
-      skills: ['iOS', 'Swift', 'Fastlane', 'Bitrise', 'SAFe'],
+      location: 'São Paulo - SP, Brazil',
+      title: 'Senior iOS Developer',
+      period: 'March 2019 - March 2022',
+      skills: ['iOS', 'Swift', 'Swift Package Manager', 'CI/CD', 'Fastlane', 'Bitrise', 'SAFe'],
       contents: `
-Trabalho em projetos de streaming fornecendo para o cliente conteúdos VOD e Live. Os projetos seguem a metodologia agil utilizando SAFe. O principal projeto é o Now Online, com o foco em melhorar a qualidade do produto e prover uma melhor experiência para o usuário, juntamente com a melhoria da arquitetura do projeto.
+* Trabalhei em dois diferentes projetos de stream com conteúdos VOD e live.
+* O primeiro projeto fui um dos responsávies por definir a arquitetura e desenhar a solução como um todo, pois o projeto estava sendo contruido do começo.
+* Implementei um feature de listagem de programas e canais, para otimizar o tempo de rederização e reduzir o custo de CPU para exibir a tela para o usuário, criei um sistema de cache para otimizar os calculos e implementei algoritmos com Binary Search para melhorar a eficiencia de encontrar o programa atual.
+* O segundo projeto, com cerca de 300.000 usuarios ativos mensalmente, fui responsável por melhorar a qualidade de código, modificando a arquitetura para seguir o Clean Architecture e MVVM.
+* Apliquei o conceito de injeção de dependência para melhorar a cobertura de testes.
 `
     },
-    // TODO: Merge Universidade de Fortaleza
     {
-      company: 'Universidade de Fortaleza',
-      location: 'Fortaleza - CE',
+      company: 'University of Fortaleza - UNIFOR',
+      location: 'Fortaleza - CE, Brazil',
       title: 'iOS Developer',
-      period: 'Março de 2018 - Março de 2019',
-      skills: ['iOS', 'Swift', 'Liderança Técnica', 'Ruby on Rails'],
+      period: 'March 2018 - March 2019',
+      skills: ['iOS', 'Swift', 'Tech Lead', 'Ruby on Rails'],
       contents: `
-Trabalhei atuando como líder técnico e como desenvolvedor iOS. O principal aplicativo que trabalhei foi o Unifor Mobile, uma versão mobile da plataforma da universidade para alunos, professores e funcionários. Dentre as funcionalidades, se destacada a matrícula do aluno, a frequência realizada pelo professor e o mapa do campus com todos os pontos de referência da universidade. Outra atividade de destaque era a formação de estagiários para o mercado de trabalho por meio de treinamentos e acompanhamentos diários. Também auxiliei na criação de outros aplicativos, como RadioNIC, um podcast feito pelos alunos da própria universidade.`
+* Trabalhei como Tech Lead especialista em iOS.
+* Era responsavél pelo aplicativo da universidade, que possuia cerca de 24.000 usuários ativos por mês.
+* Ministrei cursos de iOS para estagiários.
+* Fui responsavel por ensinar sobre a tecnologia, mas também sobre como definir contratos de APIs, como definir prioridades e sobre processos e ferramentas utilizadas em um projeto real (como git e scrum).
+`
     },
     {
-      company: 'Universidade de Fortaleza',
-      location: 'Fortaleza - CE',
-      title: 'Estagiário - iOS Developer',
-      period: 'Julho de 2017 - Março de 2018',
-      skills: ['iOS', 'Swift', 'UX'],
+      company: 'University of Fortaleza - UNIFOR',
+      location: 'Fortaleza - CE, Brazil',
+      title: 'Intern - iOS Developer',
+      period: 'July 2017 - March 2018',
+      skills: ['iOS', 'Swift'],
       contents: `
-Fui estagiário de desenvolvimento iOS e trabalhei na reconstrução do aplicativo da Universidade. Tive experiência com diversas áreas como desenvolvimento iOS, desenvolvimento Android, desenvolvimento com Ruby on Rails e UX.`
+* Aprofundei meus conhecimentos em iOS trabalhando no aplicativo principal da universidade, descando features como chat, mapa para guiar os usuário pela universidade e frequecia de aula dos professores.
+* Foi realizada a refatoração do aplicativo utilizando MVVM.
+* Após 9 meses fui contratado para assumir a responsabilidade de um time de cerca de 10 estagiários.
+`
     },
   ],
   education: [
     {
-      company: 'Universidade de Fortaleza',
-      level: 'Graduação',
-      course: 'Engenharia de Computação',
+      company: 'University of Fortaleza - UNIFOR',
+      level: 'Graduation',
+      course: 'Computing Engineering',
       period: '2015 - 2019',
       contents: `
-* Trabalho de Conclusão de Curso: Pesquisa utilizando Redes Neurais Recorrentes para predição de tendências em séries de criptomoedas.
-* Atividades: Monitor da disciplina de Programação orientada a objetos em 2016; monitor da disciplina de microprocessadores em 2017; bolsista de iniciação científica na área de segurança em redes de sensores.`
+* Final Project: Research using recurrent neural networks to predict criptocurrency trends.
+* Object Orientation class assistant in 2016.
+* Microprocessor class assistant in 2017.
+* Researcher in the area of sensor network security, trying to implement an algorith to detect atacks.
+`
     }
   ],
   personal_projects: [
     {
       title: 'iOS Movies',
       skills: ['iOS', 'Swift', 'Design System', 'MVVM', 'View Code'],
-      contents: 'Aplicativo integrado com o TheMovieDB para utilizar como POC e aprender novas tecnologias.',
+      contents: 'App integrated with TheMovieDB to be a base project to apply new technologies or create a POC.',
     },
     {
       title: 'iOS Cash Handler',
       skills: ['iOS', 'Swift', 'Design System', 'MVVM', 'View Code'],
-      contents: 'Esse projeto em desenvolvimento cria um aplicativo utilizado SwiftUI, Clean Architecture, coordinators e utilizado modulos com SPM.',
+      contents: 'This project in development creates an app that uses SwitUI, Clean Arch, coordinator and SPM modules.',
     },
     {
       title: 'iOS Common Module',
       skills: ['iOS', 'Swift', 'Design System', 'View Code'],
-      contents: 'Conjunto de extensões para views afim de melhorar a legibilidade, escrita e manutenção de suas constraints, permitindo também a fácil integração com um design system.',
+      contents: 'A set of extensions for views to improve code readability, write and maintenance about contraints and allowing easy integration with design systems.',
     },
     {
       title: 'Home Security System',
       skills: ['Computer Vision', 'Python', 'Flask', 'WebSocket', 'MongoDB', 'Raspberry Pi'],
-      contents: 'Sistema para detecção de pessoas e objetos utilizando câmeras IP.'
+      contents: 'System to detect people and objects using IP cameras.'
     },
     {
-      title: 'Canal Eletrônico do Investidor B3 - Crawler',
+      title: 'C.E.I. B3 - Crawler',
       skills: ['Web Scraping', 'NodeJS', 'Python', 'Serverless', 'AWS DynamoDB', 'AWS Lambda'],
-      contents: 'Crawler para extração de dados do canal eletrônico do investidor.'
+      contents: 'Crawler project to extract data from a Brazilian Stock Market platform and give you an overview about your investments by APIs.'
     },
     {
       title: 'Mobile Stores (App Store e Play Store) - Crawler',
       skills: ['Web Scraping', 'Python', 'Serverless', 'AWS Step Functions', 'AWS Lambda', 'AWS DynamoDB'],
-      contents: 'Crawler para extração dos reviews da App Store e Play Store.'
+      contents: 'Crawler to extract reviews from App Store and Play Store.'
     }
   ]
 };
