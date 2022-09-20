@@ -58,10 +58,10 @@ I am a person who is always looking for innovation and automating every thing po
       period: 'March 2019 - March 2022',
       skills: ['iOS', 'Swift', 'Swift Package Manager', 'CI/CD', 'Fastlane', 'Bitrise', 'SAFe'],
       contents: `
-* Developed one stream project from the begining and improved another stream project, both of them providing live and VOD contents.
-* Helped to define the solution and the architecture for the first project, always looking for performance.
+* Developed one stream project from the begining, but unreleased, and improved another stream project, called NOW. Both of them provided live and VOD contents.
+* Helped to define the solution and the architecture for the unreleased project, always looking for performance.
 * Implemented a feature to list all channels and their programs, to improve the performace and the time to render the screen to the user, I implemented a custom cache algorithm to avoid unnecessary recalculations and binary search to improve the time to find the current program based on the time.
-* Improved the architecture to use MVVM and follow Clean Architecture on the second stream project, called NOW. This one had about 300,000 monthly active users.
+* Improved the architecture to use MVVM and follow Clean Architecture on NOW project. This one had about 300,000+ monthly active users.
 * Increased the test coverage applying the dependence injection concept.
 `
     },
