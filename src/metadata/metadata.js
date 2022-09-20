@@ -14,6 +14,10 @@ I am a person who is always looking for innovation and automating every thing po
     ['iOS', '+++++'],
     ['SwiftUI', '+++++'],
     ['Combine', '+++++'],
+    ['View Code', '+++++'],
+    ['SPM', '+++++'],
+    ['Cocoapods', '+++++'],
+    ['SDK', '+++++'],
     ['Git', '+++++'],
     ['CI/CD', '+++++'],
     ['Fastlane', '++++'],
@@ -28,10 +32,10 @@ I am a person who is always looking for innovation and automating every thing po
       location: 'Remote',
       title: 'Senior iOS Developer',
       period: 'March 2022 - current',
-      skills: ['iOS', 'Swift', 'Modules'],
+      skills: ['iOS', 'Swift', 'Modules', 'Cocoapods', 'Jenkins'],
       contents: `
-* Responsable to mantain the entire notification flow, composed by push notifications, deeplinks and the list with all the user's notifications.
-* I am mentoring a Junior develop on my squad, helping him to get more knowlodge about the iOS platform and about the tech area.
+* Responsible to mantain the entire notification flow, composed by push notifications, deeplinks and a feature that allows the user to keep track of it's notifications.
+* Mentoring a Junior developer on my squad, teaching him about the iOS development.
 `
     },
     {
@@ -41,10 +45,10 @@ I am a person who is always looking for innovation and automating every thing po
       period: 'December 2020 - February 2022 (part time)',
       skills: ['iOS', 'Swift', 'WebSocket', 'SDK', 'CI/CD', 'Github Actions', 'Scrum', 'Cocoapods'],
       contents: `
-* Responsable to define the base structure project for the Maple Leaf Sports & Entertainment (MLSE) clinet, define the required APIs, messagens for the web socket and the features priorities.
-* Implemented an White Label SDK following Clean and MVVM to provide features as live and vod streams, chats, real time stats and other features. The SDK could be integrated inside any app and it will follow the app theme.
+* Responsible to define the base structure project for the Maple Leaf Sports & Entertainment (MLSE) client, define the required APIs, the web socket messages and features priorization.
+* Implemented an White Label SDK following Clean and MVVM to provide features as live and VOD streams, chats, real time stats and other features. Also, the SDK will follow the app theme.
 * Implemented scripts and configured the CI (using Github Action) to automate the build and distribution of the compiled SDK and its documentation.
-* Used Agile and Scrum and we had almost all meeting in English.
+* Used Agile and Scrum methodologies, also having weekly meeting with the client and the client backend team.
 `
     },
     {
@@ -54,11 +58,11 @@ I am a person who is always looking for innovation and automating every thing po
       period: 'March 2019 - March 2022',
       skills: ['iOS', 'Swift', 'Swift Package Manager', 'CI/CD', 'Fastlane', 'Bitrise', 'SAFe'],
       contents: `
-* Developed one stream project from the begining and improved another stream project, both of them providing live and VOD contents.
-* Helped to define the solution and the achitecture for the first project, always looking for performance.
+* Developed one stream project from the begining, but unreleased, and improved another stream project, called NOW. Both of them provided live and VOD contents.
+* Helped to define the solution and the architecture for the unreleased project, always looking for performance.
 * Implemented a feature to list all channels and their programs, to improve the performace and the time to render the screen to the user, I implemented a custom cache algorithm to avoid unnecessary recalculations and binary search to improve the time to find the current program based on the time.
-* Improved the architecture to use MVVM and follow Clean Architecture on the second stream project, called NOW. This one had about 300,000 monthly active users.
-* Incressed the test coverage applying the dependence injection concept.
+* Improved the architecture to use MVVM and follow Clean Architecture on NOW project. This one had about 300,000+ monthly active users.
+* Increased the test coverage applying the dependence injection concept.
 `
     },
     {
@@ -69,9 +73,9 @@ I am a person who is always looking for innovation and automating every thing po
       skills: ['iOS', 'Swift', 'Tech Lead', 'Ruby on Rails'],
       contents: `
 * Worked as a iOS Tech Lead.
-* Responsable for all the university iOS Apps. The main university app had about 24,000+ monthly active users.
+* Responsible for all the university iOS Apps. The main university app had about 24,000+ monthly active users.
 * Taught iOS courses for interns
-* Responsable to teach about the tech things (iOS, git and scrum process for example) and also how to design the entire solution, considering the required APIs, priorities, front end, UX and tests.
+* Responsible to teach about the iOS, git, scrum methodology and also how to design the entire app, from the UX, priorities, APIs, front end to tests.
 `
     },
     {
@@ -81,9 +85,9 @@ I am a person who is always looking for innovation and automating every thing po
       period: 'July 2017 - March 2018',
       skills: ['iOS', 'Swift'],
       contents: `
-* I learned more about iOS working on the main university app, especialy working on the chat and the map that could guide the users throught the university.
+* I learned more about iOS working on the main university app, especialy working on the chat and the map feature that could guide the users throught the university.
 * Refactored the app following MVVM.
-* After 9 months I was hired to be responsable for a team composed by 10 interns. My job was to teach them about iOS and about the project processes.
+* After 9 months I was hired to be responsable for a team composed by 10 interns. My job was to teach them about iOS and software engineering.
 `
     },
   ],
@@ -110,16 +114,16 @@ I am a person who is always looking for innovation and automating every thing po
     {
       title: 'iOS Cash Handler',
       skills: ['iOS', 'Swift', 'Design System', 'MVVM', 'View Code'],
-      contents: 'This project in development creates an app that uses SwitUI, Clean Arch, coordinator and SPM modules.',
+      contents: 'This project in development creates an app that uses SwitUI, Clean Architecture, Coordinator and SPM modules.',
     },
     {
       title: 'iOS Common Module',
       skills: ['iOS', 'Swift', 'Design System', 'View Code'],
-      contents: 'A set of extensions for views to improve code readability, write and maintenance about contraints and allowing easy integration with design systems.',
+      contents: 'A set of extensions for views to improve code readability, write and maintenance contraints and allowing easy integration with design systems.',
     },
     {
       title: 'Home Security System',
-      skills: ['Computer Vision', 'Python', 'Flask', 'WebSocket', 'MongoDB', 'Raspberry Pi'],
+      skills: ['Computer Vision', 'Python', 'Flask', 'WebSocket', 'MongoDB', 'Raspberry Pi', 'Computer Vision', 'Machine Learning'],
       contents: 'System to detect people and objects using IP cameras.'
     },
     {
