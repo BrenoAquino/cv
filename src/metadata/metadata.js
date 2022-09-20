@@ -13,6 +13,7 @@ I am a person who is always looking for innovation and automating every thing po
     ['Swift', '+++++'],
     ['iOS', '+++++'],
     ['SwiftUI', '+++++'],
+    ['Combine', '+++++'],
     ['Git', '+++++'],
     ['CI/CD', '+++++'],
     ['Fastlane', '++++'],
@@ -29,8 +30,8 @@ I am a person who is always looking for innovation and automating every thing po
       period: 'March 2022 - current',
       skills: ['iOS', 'Swift', 'Modules'],
       contents: `
-* Sou responsável pelo fluxo de notificações do aplicativo, como tratar os push notifications, deeplinks e a listagem de todas as notificação para o usuário.
-* Mentoro um Junio da equipe para ajuda-lo a entender mais da tecnologia e avançar no nivel tecnico dentro da empresa.
+* Responsable to mantain the entire notification flow, composed by push notifications, deeplinks and the list with all the user's notifications.
+* I am mentoring a Junior develop on my squad, helping him to get more knowlodge about the iOS platform and about the tech area.
 `
     },
     {
@@ -40,10 +41,10 @@ I am a person who is always looking for innovation and automating every thing po
       period: 'December 2020 - February 2022 (part time)',
       skills: ['iOS', 'Swift', 'WebSocket', 'SDK', 'CI/CD', 'Github Actions', 'Scrum', 'Cocoapods'],
       contents: `
-* Fui responsável por definir a estrutura do projeto para o clinete Maple Leaf Sports & Entertainment (MLSE), definir APIs necessárias, mensagens a serem usadas pelo WebSocket e prioridades de features.
-* Creiei uma SDK White Label seguindo Clean Architecture e MVVM para fornecer features como live stream e vod stream, grupo de chats, estatisticas em tempo real e outras funcionalidades. A SDK poderia ser inserida em outros apps e seguiria o tema definido pelo aplicativo.
-* Criei scripts para realizar o build da SDK e distribuir usnado cocoapods o framework compilado em outro repositório para poder não tornar o código publico.
-* O projeto foi seguiu Agile e Scrum e com grande parte das reuniões em inglês.
+* Responsable to define the base structure project for the Maple Leaf Sports & Entertainment (MLSE) clinet, define the required APIs, messagens for the web socket and the features priorities.
+* Implemented an White Label SDK following Clean and MVVM to provide features as live and vod streams, chats, real time stats and other features. The SDK could be integrated inside any app and it will follow the app theme.
+* Implemented scripts and configured the CI (using Github Action) to automate the build and distribution of the compiled SDK and its documentation.
+* Used Agile and Scrum and we had almost all meeting in English.
 `
     },
     {
@@ -53,11 +54,11 @@ I am a person who is always looking for innovation and automating every thing po
       period: 'March 2019 - March 2022',
       skills: ['iOS', 'Swift', 'Swift Package Manager', 'CI/CD', 'Fastlane', 'Bitrise', 'SAFe'],
       contents: `
-* Trabalhei em dois diferentes projetos de stream com conteúdos VOD e live.
-* O primeiro projeto fui um dos responsávies por definir a arquitetura e desenhar a solução como um todo, pois o projeto estava sendo contruido do começo.
-* Implementei um feature de listagem de programas e canais, para otimizar o tempo de rederização e reduzir o custo de CPU para exibir a tela para o usuário, criei um sistema de cache para otimizar os calculos e implementei algoritmos com Binary Search para melhorar a eficiencia de encontrar o programa atual.
-* O segundo projeto, com cerca de 300.000 usuarios ativos mensalmente, fui responsável por melhorar a qualidade de código, modificando a arquitetura para seguir o Clean Architecture e MVVM.
-* Apliquei o conceito de injeção de dependência para melhorar a cobertura de testes.
+* Developed one stream project from the begining and improved another stream project, both of them providing live and VOD contents.
+* Helped to define the solution and the achitecture for the first project, always looking for performance.
+* Implemented a feature to list all channels and their programs, to improve the performace and the time to render the screen to the user, I implemented a custom cache algorithm to avoid unnecessary recalculations and binary search to improve the time to find the current program based on the time.
+* Improved the architecture to use MVVM and follow Clean Architecture on the second stream project, called NOW. This one had about 300,000 monthly active users.
+* Incressed the test coverage applying the dependence injection concept.
 `
     },
     {
@@ -67,10 +68,10 @@ I am a person who is always looking for innovation and automating every thing po
       period: 'March 2018 - March 2019',
       skills: ['iOS', 'Swift', 'Tech Lead', 'Ruby on Rails'],
       contents: `
-* Trabalhei como Tech Lead especialista em iOS.
-* Era responsavél pelo aplicativo da universidade, que possuia cerca de 24.000 usuários ativos por mês.
-* Ministrei cursos de iOS para estagiários.
-* Fui responsavel por ensinar sobre a tecnologia, mas também sobre como definir contratos de APIs, como definir prioridades e sobre processos e ferramentas utilizadas em um projeto real (como git e scrum).
+* Worked as a iOS Tech Lead.
+* Responsable for all the university iOS Apps. The main university app had about 24,000+ monthly active users.
+* Taught iOS courses for interns
+* Responsable to teach about the tech things (iOS, git and scrum process for example) and also how to design the entire solution, considering the required APIs, priorities, front end, UX and tests.
 `
     },
     {
@@ -80,9 +81,9 @@ I am a person who is always looking for innovation and automating every thing po
       period: 'July 2017 - March 2018',
       skills: ['iOS', 'Swift'],
       contents: `
-* Aprofundei meus conhecimentos em iOS trabalhando no aplicativo principal da universidade, descando features como chat, mapa para guiar os usuário pela universidade e frequecia de aula dos professores.
-* Foi realizada a refatoração do aplicativo utilizando MVVM.
-* Após 9 meses fui contratado para assumir a responsabilidade de um time de cerca de 10 estagiários.
+* I learned more about iOS working on the main university app, especialy working on the chat and the map that could guide the users throught the university.
+* Refactored the app following MVVM.
+* After 9 months I was hired to be responsable for a team composed by 10 interns. My job was to teach them about iOS and about the project processes.
 `
     },
   ],
