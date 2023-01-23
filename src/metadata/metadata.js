@@ -35,7 +35,7 @@ module.exports = {
       skills: ['iOS', 'Swift', 'Modules', 'Github Actions', 'SDK'],
       contents: `
 * Responsible to design and create a custom new SDK for the analytics.
-* Implemented an authentication functionality that is modified depending on the user's country.
+* Implemented an authentication feature that is modified depending on the user's country.
 `
     },
     {
