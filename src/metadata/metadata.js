@@ -31,7 +31,7 @@ module.exports = {
       company: 'Rakuten',
       location: 'Remote',
       title: 'iOS Developer',
-      period: 'March 2022 - current',
+      period: 'October 2022 - current',
       skills: ['iOS', 'Swift', 'Modules', 'Github Actions', 'SDK'],
       contents: `
 * Responsible to design and create a custom new SDK for the analytics.
@@ -42,7 +42,7 @@ module.exports = {
       company: 'Itaú',
       location: 'Remote',
       title: 'iOS Developer',
-      period: 'March 2022 - current',
+      period: 'March 2022 - September 2022',
       skills: ['iOS', 'Swift', 'Modules', 'Cocoapods', 'Jenkins'],
       contents: `
 * Responsible for maintaining the entire notification flow, composed of push notifications, deeplinks and a feature that allows the user to keep track of its notifications.
