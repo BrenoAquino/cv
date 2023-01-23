@@ -4,7 +4,7 @@ module.exports = {
   facts: {
     'GitHub': '<a href="https://github.com/BrenoAquino">BrenoAquino</a>',
     'LinkedIn': '<a href="www.linkedin.com/in/breno-aquino">BrenoAquino</a>',
-    'Email': '<a href="mailto:brenoaquino7phr@gmail.com">brenoaquino7phr@gmail.com</a>'
+    'Email': '<a href="mailto:breno@brenoaquino.dev">breno@brenoaquino.dev</a>'
   },
   overview: `
   I am a person who is always looking for innovation and automating everything possible, enabling us to focus on more important tasks. I have experience with projects in the areas of education, streaming and finance. I am always open to discuss about architecture and performance, we always can learn more with a good discussion.
