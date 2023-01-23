@@ -42,7 +42,7 @@ module.exports = {
       company: 'Itaú',
       location: 'Remote',
       title: 'iOS Developer',
-      period: 'March 2022 - September 2022',
+      period: 'March 2022 - October 2022',
       skills: ['iOS', 'Swift', 'Modules', 'Cocoapods', 'Jenkins'],
       contents: `
 * Responsible for maintaining the entire notification flow, composed of push notifications, deeplinks and a feature that allows the user to keep track of its notifications.
