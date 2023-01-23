@@ -28,9 +28,20 @@ module.exports = {
   ],
   positions: [
     {
+      company: 'Rakuten',
+      location: 'Remote',
+      title: 'iOS Developer',
+      period: 'March 2022 - current',
+      skills: ['iOS', 'Swift', 'Modules', 'Github Actions', 'SDK'],
+      contents: `
+* Responsible to design and create a custom new SDK for the analytics.
+* Implemented an authentication functionality that is modified depending on the user's country.
+`
+    },
+    {
       company: 'Itaú',
       location: 'Remote',
-      title: 'Senior iOS Developer',
+      title: 'iOS Developer',
       period: 'March 2022 - current',
       skills: ['iOS', 'Swift', 'Modules', 'Cocoapods', 'Jenkins'],
       contents: `
@@ -42,7 +53,7 @@ module.exports = {
     {
       company: 'Meta',
       location: 'Remote',
-      title: 'Senior iOS Developer',
+      title: 'iOS Developer',
       period: 'December 2020 - February 2022 (part time)',
       skills: ['iOS', 'Swift', 'WebSocket', 'SDK', 'CI/CD', 'Github Actions', 'Scrum', 'Cocoapods'],
       contents: `
@@ -56,7 +67,7 @@ module.exports = {
     {
       company: 'Claro Brasil',
       location: 'São Paulo - SP, Brazil',
-      title: 'Senior iOS Developer',
+      title: 'iOS Developer',
       period: 'March 2019 - March 2022',
       skills: ['iOS', 'Swift', 'Swift Package Manager', 'CI/CD', 'Fastlane', 'Bitrise', 'SAFe'],
       contents: `
