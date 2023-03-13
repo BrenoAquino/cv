@@ -29,7 +29,7 @@ module.exports = {
   positions: [
     {
       company: 'Rakuten',
-      location: 'Remote',
+      location: 'United States • Remote',
       title: 'iOS Developer',
       period: 'October 2022 - current',
       skills: ['iOS', 'Swift', 'Modules', 'Github Actions', 'SDK'],
@@ -40,7 +40,7 @@ module.exports = {
     },
     {
       company: 'Itaú',
-      location: 'Remote',
+      location: 'Brazil • Remote',
       title: 'iOS Developer',
       period: 'March 2022 - October 2022',
       skills: ['iOS', 'Swift', 'Modules', 'Cocoapods', 'Jenkins'],
@@ -52,7 +52,7 @@ module.exports = {
     },
     {
       company: 'Meta',
-      location: 'Remote',
+      location: 'Canada • Remote',
       title: 'iOS Developer',
       period: 'December 2020 - February 2022 (part time)',
       skills: ['iOS', 'Swift', 'WebSocket', 'SDK', 'CI/CD', 'Github Actions', 'Scrum', 'Cocoapods'],
