@@ -66,13 +66,14 @@ module.exports = {
 `
     },
     {
-      company: 'Claro Brasil',
+      company: 'Claro',
       location: 'São Paulo - SP, Brazil',
       title: 'iOS Developer',
       period: 'March 2019 - March 2022',
       skills: ['iOS', 'Swift', 'UIKit', 'View Code', 'Unit Testing', 'Quick', 'Nimble', 'XCTest', 'Swift Package Manager', 'CI/CD', 'Fastlane', 'Bitrise', 'SAFe'],
       contents: `
 * Developed one stream project from the beginning, but unreleased, and improved another stream project, called NOW. Both of them provided live and VOD contents.
+* Worked as a leader of 2 other iOS developers defining the technologies, architecture and priorities
 * Helped to define the solution and the architecture for the unreleased project, always looking for performance.
 * Implemented a feature to list all channels and their programs, to improve the performance and the time to render the screen to the user, I implemented a custom cache algorithm to avoid unnecessary recalculations and binary search to improve the time to find the current program based on the time.
 * Improved the architecture to use MVVM and follow Clean Architecture on the NOW project. This one had about 300,000+ monthly active users.
