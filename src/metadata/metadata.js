@@ -32,10 +32,11 @@ module.exports = {
       location: 'United States • Remote',
       title: 'iOS Developer',
       period: 'October 2022 - current',
-      skills: ['iOS', 'Swift', 'Modules', 'Github Actions', 'SDK'],
+      skills: ['iOS', 'Swift', 'Objective C', 'UIKit', 'View Code', 'SwiftUI', 'Unit Testing', 'XCTest', 'Modules', 'Github Actions', 'Xcode Cloud', 'Fastlane', 'SDK'],
       contents: `
 * Responsible to design and create a custom new SDK for the analytics.
 * Implemented an authentication feature that is modified depending on the user's country.
+* Implemented a privacy module to internationalize the app and follow the laws of each country/state.
 `
     },
     {
@@ -43,11 +44,11 @@ module.exports = {
       location: 'Brazil • Remote',
       title: 'iOS Developer',
       period: 'March 2022 - October 2022',
-      skills: ['iOS', 'Swift', 'Modules', 'Cocoapods', 'Jenkins'],
+      skills: ['iOS', 'Swift', 'UIKit', 'View Code', 'Unit Testing', 'XCTest', 'Modules', 'Swift Package Manager', 'Cocoapods', 'Jenkins', 'Fastlane'],
       contents: `
-* Responsible for maintaining the entire notification flow, composed of push notifications, deeplinks and a feature that allows the user to keep track of its notifications.
-* Mentoring a Junior developer on my squad, teaching him about iOS development.
+* Responsible for leading and mentoring a Junior developer, teaching and guiding on iOS development.
 * Implemented several individual modules and distributed using Cocoapods.
+* Responsible for maintaining the entire notification flow, composed of push notifications, deeplinks and a feature that allows the user to keep track of its notifications.
 `
     },
     {
@@ -55,10 +56,10 @@ module.exports = {
       location: 'Canada • Remote',
       title: 'iOS Developer',
       period: 'December 2020 - February 2022 (part time)',
-      skills: ['iOS', 'Swift', 'WebSocket', 'SDK', 'CI/CD', 'Github Actions', 'Scrum', 'Cocoapods'],
+      skills: ['iOS', 'Swift', 'UIKit', 'View Code', 'Unit Testing', 'Quick', 'Nimble', 'XCTest', 'WebSocket', 'SDK', 'Cocoapods', 'CI/CD', 'Github Actions', 'Scrum'],
       contents: `
-* Responsible for defining the base structure project for the Maple Leaf Sports & Entertainment (MLSE) client, defining the required APIs, the web socket messages and features prioritization.
-* Implemented a SDK following Clean and MVVM to provide features as live and VOD streams, chats, real time stats and other features.
+* Worked as a leader creating and defining the base structure project for the client Maple Leaf Sports & Entertainment (MLSE). Designing solutions using APIs, web socket for real-time behavior, feature priority and definition of architectures and metrics
+* Implemented an SDK following Clean and MVVM to provide features like live and VOD streams, chats, real-time stats and other features and distributed using Cocoapods
 * Implemented a design system and a custom theme to be setted by the host app.
 * Implemented scripts and configured the CI (using Github Action) to automate the build and distribution of the compiled SDK and its documentation.
 * Used Agile and Scrum methodologies, also having weekly meetings with the client and the client backend team.
@@ -69,7 +70,7 @@ module.exports = {
       location: 'São Paulo - SP, Brazil',
       title: 'iOS Developer',
       period: 'March 2019 - March 2022',
-      skills: ['iOS', 'Swift', 'Swift Package Manager', 'CI/CD', 'Fastlane', 'Bitrise', 'SAFe'],
+      skills: ['iOS', 'Swift', 'UIKit', 'View Code', 'Unit Testing', 'Quick', 'Nimble', 'XCTest', 'Swift Package Manager', 'CI/CD', 'Fastlane', 'Bitrise', 'SAFe'],
       contents: `
 * Developed one stream project from the beginning, but unreleased, and improved another stream project, called NOW. Both of them provided live and VOD contents.
 * Helped to define the solution and the architecture for the unreleased project, always looking for performance.
@@ -83,26 +84,27 @@ module.exports = {
       location: 'Fortaleza - CE, Brazil',
       title: 'iOS Developer',
       period: 'March 2018 - March 2019',
-      skills: ['iOS', 'Swift', 'Tech Lead', 'Ruby on Rails'],
+      skills: ['iOS', 'Swift', 'UIKit', 'Storyboard', 'View Code', 'UI Testing', 'MVC', 'MVVM', 'Tech Lead', 'Ruby on Rails', 'Fastlane'],
       contents: `
-* Worked as an iOS Tech Lead.
+* Worked as a Tech Lead for a team of 10 interns.
 * Responsible for all the university iOS Apps. The main university app had about 24,000+ monthly active users.
-* Taught iOS courses for interns
-* Responsible for teaching about the iOS, git, scrum methodology and also how to design the entire app, from the UX, priorities, APIs, front end to tests.
-`
-    },
-    {
-      company: 'University of Fortaleza - UNIFOR',
-      location: 'Fortaleza - CE, Brazil',
-      title: 'Intern - iOS Developer',
-      period: 'July 2017 - March 2018',
-      skills: ['iOS', 'Swift'],
-      contents: `
-* I learned more about iOS working on the main university app, especially working on the chat and the map feature that could guide the users through the university.
+* Taught iOS courses for interns and students.
+* Responsible for teaching about the iOS, git, scrum methodology and also how to design the entire solution, from the UX, priorities, APIs, front end to tests.
 * Refactored the app following MVVM.
-* After 9 months I was hired to be responsible for a team composed of 10 interns. My job was to teach them about iOS and software engineering.
 `
     },
+//     {
+//       company: 'University of Fortaleza - UNIFOR',
+//       location: 'Fortaleza - CE, Brazil',
+//       title: 'Intern - iOS Developer',
+//       period: 'July 2017 - March 2018',
+//       skills: ['iOS', 'Swift'],
+//       contents: `
+// * I learned more about iOS working on the main university app, especially working on the chat and the map feature that could guide the users through the university.
+// * Refactored the app following MVVM.
+// * After 9 months I was hired to be responsible for a team composed of 10 interns. My job was to teach them about iOS and software engineering.
+// `
+//     },
   ],
   education: [
     {
@@ -121,17 +123,17 @@ module.exports = {
   personal_projects: [
     {
       title: 'iOS Movies',
-      skills: ['iOS', 'Swift', 'Design System', 'MVVM', 'View Code'],
+      skills: ['iOS', 'Swift', 'SwiftUI', 'Design System', 'MVVM'],
       contents: 'App integrated with TheMovieDB to be a base project to apply new technologies or create a POC.',
     },
     {
       title: 'iOS Cash Handler',
-      skills: ['iOS', 'Swift', 'Design System', 'MVVM', 'View Code'],
+      skills: ['iOS', 'Swift', 'SwiftUI', 'Design System', 'MVVM', 'View Code'],
       contents: 'This project in development creates an app that uses SwitUI, Clean Architecture, Coordinator and SPM modules.',
     },
     {
       title: 'iOS Common Module',
-      skills: ['iOS', 'Swift', 'Design System', 'View Code'],
+      skills: ['iOS', 'Swift', 'UIKit', 'Design System', 'View Code'],
       contents: 'A set of extensions for views to improve code readability, write and maintenance constraints and allowing easy integration with design systems.',
     },
     {
