@@ -8,7 +8,7 @@ module.exports = {
   },
   overview: `
   Tenho quase 6 anos de experiência com desenvolvimento iOS. Já fui responsável pela criação (tanto desenvolvimento quanto desenhar a arquitetura/solução) de múltiplas SDKs, incluindo uma white label que teria seu tema customizado pelo aplicativo que iria utilizá-la e outra que era responsável por implementar uma framework de analytics que seria utilizado em outros aplicativos da empresa. Tenho vasta experiência em streaming e já trabalhei na área financeira cuidando de um aplicativo utilizado por milhões de usuários.
-  `,
+`,
   skills: [
     ['Swift', '+++++'],
     ['iOS', '+++++'],
@@ -94,6 +94,18 @@ module.exports = {
 * Liderei a refatoração do principal aplicativo da universidade seguindo MVVM. Dentre as funcionalidades, se destaca a matrícula do aluno, a frequência realizada pelo professor e o mapa do campus com todos os pontos de referência da universidade.
 `
     },
+//     {
+//       company: 'University of Fortaleza - UNIFOR',
+//       location: 'Fortaleza - CE, Brazil',
+//       title: 'Intern - iOS Developer',
+//       period: 'July 2017 - March 2018',
+//       skills: ['iOS', 'Swift'],
+//       contents: `
+// * I learned more about iOS working on the main university app, especially working on the chat and the map feature that could guide the users through the university.
+// * Refactored the app following MVVM.
+// * After 9 months I was hired to be responsible for a team composed of 10 interns. My job was to teach them about iOS and software engineering.
+// `
+//     },
   ],
   education: [
     {
@@ -131,4 +143,4 @@ module.exports = {
       contents: 'Crawler para extrair reviews da App Store e Play Store e tentar extrair o sentimento (positivo ou negativo) do comentário.'
     }
   ]
-};  
+};
