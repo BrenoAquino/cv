@@ -37,7 +37,7 @@ module.exports = {
 * Responsável por projetar e criar uma SDK personalizado para o analytics da empresa;
 * Implementei um recurso de autenticação que é modificado dependendo do país do usuário;
 * Implementei um módulo de privacidade para internacionalizar o aplicativo e seguir as leis de cada país/estado.
-      `
+`
     },
     {
       company: 'Itaú',
@@ -49,7 +49,7 @@ module.exports = {
 * Responsável por liderar e orientar um desenvolvedor Junior, ensinando e orientando no desenvolvimento iOS;
 * Implementei vários módulos individuais e distribuídos usando Cocoapods;
 * Responsável por manter todo o fluxo de notificações, composto por push notifications, deeplinks e uma funcionalidade que permite ao usuário acompanhar suas notificações.
-      `
+`
     },
     {
       company: 'Meta',
@@ -63,7 +63,7 @@ module.exports = {
 * Implementei um design system e um tema personalizado a ser definido pelo aplicativo host;
 * Implementei scripts e configurei o CI (usando Github Action) para automatizar a construção e distribuição do SDK compilado e sua documentação;
 * Utilizei metodologias Agile e Scrum, realizando também reuniões semanais com o cliente e a equipe de backend do cliente.
-      `
+`
     },
     {
       company: 'Claro',
@@ -78,7 +78,7 @@ module.exports = {
 * Implementei um recurso para listar todos os canais e seus programas, para melhorar o desempenho e o tempo de renderização da tela para o usuário, implementei um algoritmo de cache customizado para evitar recálculo desnecessários e busca binária para melhorar o tempo para encontrar o programa atual baseado em na hora atual;
 * Melhorou a arquitetura para usar MVVM e seguir o Clean Architecture no projeto NOW, além de ter começado a implementar testes unitários. Este aplicativo tinha cerca de 300.000+ usuários ativos mensais;
 * Aumentei a cobertura de testes aplicando e apliquei o conceito de injeção de dependência.
-      `
+`
     },
     {
       company: 'University of Fortaleza - UNIFOR',
@@ -92,7 +92,7 @@ module.exports = {
 * Ministrei cursos de iOS para estagiários e estudantes;
 * Responsável por ensinar sobre a metodologia iOS, git, scrum e também como desenhar toda a solução, desde UX, prioridades, APIs, front end até testes;
 * Liderei a refatoração do principal aplicativo da universidade seguindo MVVM. Dentre as funcionalidades, se destaca a matrícula do aluno, a frequência realizada pelo professor e o mapa do campus com todos os pontos de referência da universidade.
-      `
+`
     },
   ],
   education: [
@@ -106,7 +106,7 @@ module.exports = {
 * Monitor da disciplina de Programação Orientada a Objetos em 2016.
 * Monitor da disciplina de Microprocessor em 2017.
 * Pesquisa na área de segurança em redes de sensores, tentando implementar um algoritmo para detecção de ataques.
-      `
+`
     }
   ],
   personal_projects: [
