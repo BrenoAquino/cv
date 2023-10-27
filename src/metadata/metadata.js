@@ -7,7 +7,7 @@ module.exports = {
     'Email': '<a href="mailto:breno@brenoaquino.dev">breno@brenoaquino.dev</a>'
   },
   overview: `
-  I am a person who is always looking for innovation and automating everything possible, enabling us to focus on more important tasks. I have experience with projects in the areas of education, streaming and finance. I am always open to discuss about architecture and performance, we always can learn more with a good discussion.
+  I am a person who is always looking for innovation and automating everything possible, enabling us to focus on more important tasks. I have experience with projects in the areas of education, streaming and finance. I also have experience in creating SDKs, both for internal use and for sale to third parties. I am always open to discuss about architecture and performance.
 `,
   skills: [
     ['Swift', '+++++'],
