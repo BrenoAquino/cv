@@ -122,15 +122,15 @@ module.exports = {
     }
   ],
   personal_projects: [
-    {
-      title: 'iOS Movies',
-      skills: ['iOS', 'Swift', 'SwiftUI', 'Design System', 'MVVM'],
-      contents: 'App integrated with TheMovieDB to be a base project to apply new technologies or create a POC.',
-    },
+    // {
+    //   title: 'iOS Movies',
+    //   skills: ['iOS', 'Swift', 'SwiftUI', 'Design System', 'MVVM'],
+    //   contents: 'App integrated with TheMovieDB to be a base project to apply new technologies or create a POC.',
+    // },
     {
       title: 'iOS Cash Handler',
       skills: ['iOS', 'Swift', 'SwiftUI', 'Design System', 'MVVM', 'View Code'],
-      contents: 'This project in development creates an app that uses SwitUI, Clean Architecture, Coordinator and SPM modules.',
+      contents: 'This project creates an app for financial management with the aim of applying knowledge in SwiftUI, Coordinator, SPM and Clean Architecture',
     },
     {
       title: 'iOS Common Module',
@@ -140,17 +140,17 @@ module.exports = {
     {
       title: 'Home Security System',
       skills: ['Computer Vision', 'Python', 'Flask', 'WebSocket', 'MongoDB', 'Raspberry Pi', 'Computer Vision', 'Machine Learning'],
-      contents: 'System to detect people and objects using IP cameras.'
+      contents: 'System to detect people and objects using IP cameras. It can be used with an alarm or for automation.'
     },
-    {
-      title: 'C.E.I. B3 - Crawler',
-      skills: ['Web Scraping', 'NodeJS', 'Python', 'Serverless', 'AWS DynamoDB', 'AWS Lambda'],
-      contents: 'Crawler project to extract data from a Brazilian Stock Market platform and give you an overview about your investments by APIs.'
-    },
+    // {
+    //   title: 'C.E.I. B3 - Crawler',
+    //   skills: ['Web Scraping', 'NodeJS', 'Python', 'Serverless', 'AWS DynamoDB', 'AWS Lambda'],
+    //   contents: 'Crawler project to extract data from a Brazilian Stock Market platform and give you an overview about your investments by APIs.'
+    // },
     {
       title: 'Mobile Stores (App Store e Play Store) - Crawler',
       skills: ['Web Scraping', 'Python', 'Serverless', 'AWS Step Functions', 'AWS Lambda', 'AWS DynamoDB'],
-      contents: 'Crawler to extract reviews from App Store and Play Store.'
+      contents: 'Crawler to extract reviews from the App Store and Play Store and try to extract the sentiment (positive, negative or neutral) of the comment.'
     }
   ]
 };
