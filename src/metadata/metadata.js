@@ -52,7 +52,7 @@ module.exports = {
 * As the company has a significant number of developers and dozens of squads, we used several repositories for each module and a main one with the app focused on integrating and coordinating the app's navigation. All module distributions were using cocoapods;
 * To support multiple apps in the App Store and avoid duplicate code, it was configured different build schemas and build configurations to define how some components/modules should behave and look;
 * Responsible for creating and maintaining multiple modules related to the app's notification/deeplink flow, the app had about 28.000.000 active user per month;
-* Worked on redesigning the app, where I could apply improvements to the app's architecture and making it more testable and maintainable.
+* Worked on redesigning the app, where I could apply improvements to the app's architecture and make it more testable and maintainable.
 `
     },
     {
