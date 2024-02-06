@@ -1,6 +1,6 @@
 module.exports = {
   name: 'Breno Aquino',
-  title: 'Developer',
+  title: 'Software Developer',
   facts: {
     'GitHub': '<a href="https://github.com/BrenoAquino">BrenoAquino</a>',
     'LinkedIn': '<a href="www.linkedin.com/in/breno-aquino">BrenoAquino</a>',
