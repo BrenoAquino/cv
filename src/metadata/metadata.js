@@ -4,7 +4,6 @@ module.exports = {
   phone: '(85) 9 9959-3573',
   facts: {
     'Lattes': '<a href="http://lattes.cnpq.br/4007777657492212 ">Paula Motoyama</a>',
-    'LinkedIn': '<a href="www.linkedin.com/in/breno-aquino">BrenoAquino</a>',
     'Email': '<a href="mailto:paula.pmotoyama@gmail.com">paula.pmotoyama@gmail.com</a>'
   },
   overview: `
@@ -67,14 +66,21 @@ module.exports = {
     },
     {
       company: 'University of Fortaleza - UNIFOR',
-      level: 'Graduation',
-      course: 'Computing Engineering',
+      level: 'Graduação',
+      course: 'Medicina',
       period: '2016 - 2022',
       contents: `
 * Participei das seguintes ligas acadêmicas: patolôgia, infectolôgia, cancerolôgia, GO
 * Participei das monitorias volutárias de: ...
 * Participei das iniciação cientificade de: ...
 `
+    }
+  ],
+  courses: [
+    {
+      course: 'Curso de Inglês',
+      company: 'University of Fortaleza - UNIFOR',
+      period: '2015 - 2016'
     }
   ]
 };
