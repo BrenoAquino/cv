@@ -56,7 +56,7 @@ module.exports = {
   ],
   education: [
     {
-      company: 'University of Fortaleza - UNIFOR',
+      company: 'Universidade de Fortaleza - UNIFOR',
       level: 'Mestrado',
       course: 'Ciências Médicas',
       period: 'Agosto 2022 - Atual',
@@ -65,22 +65,17 @@ module.exports = {
 `
     },
     {
-      company: 'University of Fortaleza - UNIFOR',
+      company: 'Universidade de Fortaleza - UNIFOR',
       level: 'Graduação',
       course: 'Medicina',
       period: '2016 - 2022',
-      contents: `
-* Participei das seguintes ligas acadêmicas: patolôgia, infectolôgia, cancerolôgia, GO
-* Participei das monitorias volutárias de: ...
-* Participei das iniciação cientificade de: ...
-`
+      contents: ``
     }
   ],
   courses: [
     {
-      course: 'Curso de Inglês',
-      company: 'University of Fortaleza - UNIFOR',
-      period: '2015 - 2016'
+      company: 'Curso de inglês, British and American, Fortaleza/Ce',
+      period: '2015 - 2016 • 133 horas'
     }
   ]
 };
