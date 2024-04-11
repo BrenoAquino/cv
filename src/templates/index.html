@@ -13,7 +13,7 @@
 <div class="container page">
     <div class="row">
         <div class="col-md-6 col-print-6">
-            <h1>{{ name }}<br/>{{ title }}</h1>
+            <h1>{{ name }}</h1>
             <p>
                 <span class="screen"><a href="{{ pdfFileName }}"><i class="fa fa-file-pdf-o" aria-hidden="true"></i>Download PDF version</a></span>
                 <!-- <span class="print">The online version is available at <a href="{{ baseUrl }}" class="text-nowrap"><i -->
@@ -30,17 +30,12 @@
         </div>
     </div>
 
-    <!-- <h4>Skills</h4>
-    {{#each skills}}
-    <span class="badge badge-primary">{{ this.[0] }}</span>
-    {{/each}} -->
-
     </br>
     </br>
-    <h2>About</h2>
+    <h2>Objetivo</h2>
     <p>{{ overview }}</p>
 
-    <h2>Professional Experience</h2>
+    <h2>Experiência Profissional</h2>
     </br>
     {{#each positions}}
     <div class="card mb-4">
@@ -62,7 +57,7 @@
     </div>
     {{/each}}
 
-    <h2>Education</h2>
+    <h2>Educação</h2>
     {{#each education}}
     <div class="card mb-4">
         <div class="card-body">
@@ -75,7 +70,7 @@
     </div>
     {{/each}}
 
-    <!-- <h2>Personal Projects</h2>
+    <h2>Projetos Pessoais</h2>
     {{#each personal_projects}}
     <div class="card-body">
         <div class="mb-2"><strong>{{ title }}</strong>: {{ contents }}</div>
@@ -86,7 +81,7 @@
         </div>
     </div>
     </br>
-    {{/each}} -->
+    {{/each}}
 </div>
 </body>
 </html>
