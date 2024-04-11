@@ -14,6 +14,8 @@
     <div class="row">
         <div class="col-md-6 col-print-6">
             <h1>{{ name }}</h1>
+            <h2>{{ address }}</h2>
+            <h2>{{ phone }}</h2>
             <p>
                 <span class="screen"><a href="{{ pdfFileName }}"><i class="fa fa-file-pdf-o" aria-hidden="true"></i>Download PDF version</a></span>
                 <!-- <span class="print">The online version is available at <a href="{{ baseUrl }}" class="text-nowrap"><i -->
@@ -47,12 +49,6 @@
             <p class="text-muted">{{ period }}</p>
 
             <div>{{{markdown contents }}}</div>
-
-            <p>
-                {{#each skills }}
-                <span class="badge badge-primary">{{ this }}</span>
-                {{/each}}
-            </p>
         </div>
     </div>
     {{/each}}
@@ -68,19 +64,6 @@
             <div>{{{markdown contents }}}</div>
         </div>
     </div>
-    {{/each}}
-
-    <h2>Projetos Pessoais</h2>
-    {{#each personal_projects}}
-    <div class="card-body">
-        <div class="mb-2"><strong>{{ title }}</strong>: {{ contents }}</div>
-        <div>
-            {{#each skills }}
-            <span class="badge badge-primary">{{ this }}</span>
-            {{/each}}
-        </div>
-    </div>
-    </br>
     {{/each}}
 </div>
 </body>
