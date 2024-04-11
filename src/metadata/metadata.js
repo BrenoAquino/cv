@@ -4,6 +4,10 @@ module.exports = {
   phone: '(85) 9 9959-3573',
   facts: {
     'Lattes': '<a href="http://lattes.cnpq.br/4007777657492212 ">Paula Motoyama</a>',
+<<<<<<< HEAD
+=======
+    'LinkedIn': '<a href="www.linkedin.com/in/breno-aquino">BrenoAquino</a>',
+>>>>>>> 667aef6cc373525cc80723b890aae86ed15c14b5
     'Email': '<a href="mailto:paula.pmotoyama@gmail.com">paula.pmotoyama@gmail.com</a>'
   },
   overview: `
