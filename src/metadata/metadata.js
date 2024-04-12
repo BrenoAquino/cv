@@ -7,7 +7,7 @@ module.exports = {
     'Email': '<a href="mailto:paula.pmotoyama@gmail.com">paula.pmotoyama@gmail.com</a>'
   },
   overview: `
-  Estou em busca de uma oportunidade em auditoria médica, onde eu possa aplicar minhas habilidades e contribuir com minha experiência profissional e acadêmica para impulsionar os resultados e a qualidade da equipe.
+  Estou em busca de uma oportunidade em auditoria médica, onde eu possa aplicar minhas habilidades e contribuir com minha experiência profissional para impulsionar os resultados e a qualidade da equipe.
 `,
   positions: [
     {
@@ -17,7 +17,7 @@ module.exports = {
       period: 'Janeiro 2023 - Atual',
       contents: `
 * Bolsista do Programa Médicos pelo Brasil;
-* Conduzi uma campanha educativa sobre infecções sexualmente transmissíveis, incluindo o HIV, abordando formas de prevenção incluindo no uso de PREP e PEP, direcionada a uma população mais vulnerável;
+* Conduzi uma campanha educativa sobre infecções sexualmente transmissíveis, incluindo o HIV, abordando formas de prevenção incluindo o uso de PREP e PEP, direcionada a uma população mais vulnerável;
 * Restabeleci o fluxo de busca ativa dos pacientes sintomáticos respiratórios na unidade básica de saúde objetivando melhorar nas taxas de diagnóstico de tuberculose na área adscrita;
 * Atendimento de pacientes hipertensos, diabéticos, acompanhamento pré-natal, puericultura e demandas gerais e espontâneas;
 * Atendimentos realizados na unidade básica, domicílio e em ponto de apoio dos pacientes moradores da área adscrita, abrangendo todas as faixas etárias.
