@@ -4,7 +4,7 @@ module.exports = {
   facts: {
     'GitHub': '<a href="https://github.com/BrenoAquino">BrenoAquino</a>',
     'LinkedIn': '<a href="www.linkedin.com/in/breno-aquino">BrenoAquino</a>',
-    'Email': '<a href="mailto:breno@brenoaquino.dev">breno@brenoaquino.dev</a>'
+    'Email': '<a href="mailto:brenoaquino7phr@@gmail.com">brenoaquino7phr@@gmail.com</a>'
   },
   overview: `
   I have worked as an iOS Developer for more than 6 years and have mentored interns and juniors during my professional journey. I'm always looking for performance, innovation and automation, and how I can apply these concepts in the project, process or life. I have experience with projects in the areas of streaming, finance and education. I also have experience in creating SDKs, both for internal use and for sale to third parties.
